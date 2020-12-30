@@ -1,0 +1,881 @@
+,Company Name,job_title,seniority,min_salary,max_salary,Rating,python,sql,r_studio,spark,aws,excel,sector,age,Revenue,Type of ownership,description_len,min_employees,max_employees,avg_size,avg_salary
+0,MThree Consulting,na,na,24,38,4.1,1,0,0,0,0,0,public,11,Unknown / Non-Applicable,Private,3098,501,1000,750.0,31.0
+1,Yorkshire Water,na,na,24,38,3.6,0,0,0,0,0,0,public,48,$500 million to $1 billion (USD),Private,3750,1001,5000,3000.0,31.0
+2,Citadel,data engineer,na,24,38,4.3,1,1,0,1,1,0,public,31,$50 to $100 million (USD),Private,2899,1001,5000,3000.0,31.0
+3,Ravelin,data scientist,na,24,38,4.8,0,1,0,0,0,0,inforamtion tech,7,$5 to $10 million (USD),Private,3388,51,200,126.0,31.0
+4,gohenry Ltd,analyst,na,24,38,4.6,0,1,0,0,0,1,finance,9,$10 to $25 million (USD),Private,3376,51,200,126.0,31.0
+5,Achilles Therapeutics,data scientist,na,24,38,3.3,1,0,0,0,0,1,medical,5,Unknown / Non-Applicable,Private,3476,201,500,350.0,31.0
+6,Kandidate,data scientist,na,24,38,5.0,1,0,0,0,1,0,public,6,Unknown / Non-Applicable,Private,3155,1,50,26.0,31.0
+7,infarm,data scientist,na,24,38,4.1,1,0,0,0,0,0,retail,8,Unknown / Non-Applicable,Private,3986,501,1000,750.0,31.0
+8,Opensignal,data scientist,na,24,38,5.0,1,1,0,0,0,0,public,11,Less than $1 million (USD),Private,6630,1,50,26.0,31.0
+9,Lyst,data scientist,na,24,38,4.5,1,0,0,1,1,0,telecommunication,11,$50 to $100 million (USD),Private,4621,51,200,126.0,31.0
+10,Product Madness,data scientist,na,24,38,3.6,1,1,0,0,0,0,inforamtion tech,14,Unknown / Non-Applicable,Private,5334,51,200,126.0,31.0
+11,Depop,data scientist,na,24,38,4.3,1,0,0,1,1,0,retail,10,Unknown / Non-Applicable,Private,7702,201,500,350.0,31.0
+12,Blue Pelican,data scientist,senior,24,38,3.8,1,1,0,0,0,1,public,19,Unknown / Non-Applicable,Private,3858,1,50,26.0,31.0
+13,Deliveroo,data scientist,na,24,38,3.6,1,1,0,0,0,1,telecommunication,8,Unknown / Non-Applicable,Private,4782,1001,5000,3000.0,31.0
+14,UserTesting,data scientist,na,24,38,3.8,1,1,0,0,0,0,inforamtion tech,14,$100 to $500 million (USD),Private,3651,501,1000,750.0,31.0
+15,causaLens,data scientist,na,24,38,4.5,1,0,0,0,0,1,inforamtion tech,4,Unknown / Non-Applicable,Private,5449,1,50,26.0,31.0
+16,Tractable,data scientist,na,24,38,4.9,1,0,0,0,0,1,inforamtion tech,7,Unknown / Non-Applicable,Private,3691,51,200,126.0,31.0
+17,ADLIB,data scientist,na,24,38,4.6,1,0,0,0,0,0,public,21,Unknown / Non-Applicable,Private,1953,1,50,26.0,31.0
+18,ASDA,data scientist,na,24,38,3.6,0,1,0,0,0,1,retail,72,$10+ billion (USD),Venture,2408,10000,10000,10000.0,31.0
+19,Adthena,data scientist,na,24,38,4.4,1,1,0,0,1,0,inforamtion tech,9,$10 to $25 million (USD),Private,7110,51,200,126.0,31.0
+20,Medable,data scientist,na,24,38,5.0,1,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2277,1,50,26.0,31.0
+21,Bud,na,senior,24,38,3.7,1,0,0,1,1,1,inforamtion tech,6,Unknown / Non-Applicable,Private,8271,51,200,126.0,31.0
+22,easyJet,data scientist,na,24,38,4.1,0,0,0,0,0,1,public,26,$2 to $5 billion (USD),Private,5203,10000,10000,10000.0,31.0
+23,"Jefferies & Company, Inc.",data scientist,na,24,38,3.9,1,0,0,0,1,0,finance,59,$2 to $5 billion (USD),Public,2330,1001,5000,3000.0,31.0
+24,QBE,data scientist,na,24,38,3.5,1,1,0,0,0,0,finance,135,$10+ billion (USD),Public,5090,10000,10000,10000.0,31.0
+25,Fidel API,data scientist,na,24,38,5.0,1,0,0,0,1,1,finance,8,Unknown / Non-Applicable,Private,3855,1,50,26.0,31.0
+26,VaynerMedia LLC,data scientist,na,24,38,3.0,1,0,0,0,0,1,public,-1,$10 to $25 million (USD),Private,3021,51,200,126.0,31.0
+27,Deep Labs,data scientist,na,24,38,3.8,1,0,0,0,1,0,inforamtion tech,6,Unknown / Non-Applicable,Private,3195,1,50,26.0,31.0
+28,RNLI,data scientist,na,24,38,3.9,1,1,0,0,0,0,public,197,Unknown / Non-Applicable,Organization,4380,1001,5000,3000.0,31.0
+29,Drax Group,data scientist,na,24,38,3.5,1,1,0,1,0,0,public,-1,$2 to $5 billion (USD),Public,2932,1001,5000,3000.0,31.0
+30,Sonder,data scientist,na,24,38,2.9,1,1,0,0,0,0,hospitality,7,$100 to $500 million (USD),Private,3303,1001,5000,3000.0,31.0
+31,Secret Intelligence Service,data scientist,na,24,38,2.8,0,0,0,0,0,0,public,112,Unknown / Non-Applicable,Organization,5235,1001,5000,3000.0,31.0
+32,CK Group,na,na,38,70,4.3,0,0,0,0,0,1,public,-1,$1 to $5 million (USD),Public,2852,1,50,26.0,54.0
+33,UserZoom,ai researcher,na,38,70,4.3,0,0,0,0,0,1,inforamtion tech,14,$10 to $25 million (USD),Private,3221,201,500,350.0,54.0
+34,Citadel,na,na,38,70,4.3,0,0,0,0,0,0,public,31,$50 to $100 million (USD),Private,2979,1001,5000,3000.0,54.0
+35,Alimentiv,na,na,38,70,4.0,0,0,0,0,0,1,medical,35,Unknown / Non-Applicable,Private,3196,201,500,350.0,54.0
+36,Freemavens,na,na,38,70,4.4,1,1,0,0,0,1,public,-1,Less than $1 million (USD),Private,5733,1,50,26.0,54.0
+37,Koch Supply and Trading,analyst,na,38,70,3.8,1,1,0,0,0,0,production,81,$10+ billion (USD),Private,3427,10000,10000,10000.0,54.0
+38,Ruroc,manager,na,38,70,-1.0,0,0,0,0,0,1,production,11,Unknown / Non-Applicable,Private,6542,51,200,126.0,54.0
+39,Biglight,ai researcher,na,38,70,3.6,0,0,0,0,0,0,telecommunication,15,Unknown / Non-Applicable,Private,3089,1,50,26.0,54.0
+40,Okta,analyst,senior,38,70,3.9,0,0,0,0,0,0,inforamtion tech,12,Unknown / Non-Applicable,Public,4178,501,1000,750.0,54.0
+41,Neuberger Berman,na,na,38,70,4.0,0,0,0,0,1,1,finance,82,$500 million to $1 billion (USD),Private,2808,1001,5000,3000.0,54.0
+42,HeliosX,manager,na,38,70,5.0,0,0,0,0,0,1,medical,8,$10 to $25 million (USD),Private,3706,51,200,126.0,54.0
+43,Koch Supply and Trading,analyst,na,38,70,3.8,1,1,0,0,0,0,production,81,$10+ billion (USD),Private,3513,10000,10000,10000.0,54.0
+44,Always Pure Organics,manager,na,38,70,-1.0,0,0,0,0,0,1,public,-1,$100 to $500 million (USD),Public,2591,5001,10000,7500.0,54.0
+45,Lendable,analyst,na,38,70,-1.0,0,0,0,0,0,0,finance,-1,Less than $1 million (USD),Private,3383,1,50,26.0,54.0
+46,The Hut Group,na,na,38,70,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,4385,5001,10000,7500.0,54.0
+47,Informed Solutions,ai researcher,na,38,70,3.6,0,0,0,0,0,1,public,29,Unknown / Non-Applicable,Private,3436,51,200,126.0,54.0
+48,Microsoft,na,na,38,70,4.4,0,0,0,0,1,1,inforamtion tech,46,$10+ billion (USD),Public,6505,10000,10000,10000.0,54.0
+49,Sensor Tower,analyst,na,38,70,4.5,1,1,0,0,0,1,public,8,Unknown / Non-Applicable,Private,5203,51,200,126.0,54.0
+50,Abcam,na,na,38,70,4.8,0,0,0,0,0,1,medical,23,$100 to $500 million (USD),Public,5537,1001,5000,3000.0,54.0
+51,Orion Group,na,na,38,70,4.6,0,0,0,0,0,1,public,34,$100 to $500 million (USD),Private,4576,201,500,350.0,54.0
+52,Seqirus A CSL Company,manager,na,38,70,3.6,0,0,0,0,0,1,medical,6,Less than $1 million (USD),Public,5538,1001,5000,3000.0,54.0
+53,BioTalent,na,na,38,70,5.0,0,0,0,0,0,0,medical,3,Unknown / Non-Applicable,Private,958,1,50,26.0,54.0
+54,The Hut Group,manager,na,38,70,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,4655,5001,10000,7500.0,54.0
+55,Rockstar Games,ai researcher,na,38,70,4.2,0,0,0,0,0,1,inforamtion tech,23,$10 to $25 million (USD),Venture,4089,1001,5000,3000.0,54.0
+56,MediaCom London,analyst,na,38,70,3.2,0,0,0,0,0,1,telecommunication,35,Unknown / Non-Applicable,Private,3349,1001,5000,3000.0,54.0
+57,Ieso Digital Health,manager,na,38,70,3.7,0,0,0,0,0,1,medical,10,Unknown / Non-Applicable,Organization,4564,51,200,126.0,54.0
+58,Yieldify,na,na,38,70,3.9,0,0,0,0,0,1,inforamtion tech,9,Unknown / Non-Applicable,Private,4917,51,200,126.0,54.0
+59,Parexel,ai researcher,na,38,70,3.7,0,0,0,0,0,1,medical,39,$2 to $5 billion (USD),Private,5417,10000,10000,10000.0,54.0
+60,Twilio,manager,na,38,70,4.1,0,0,0,0,1,0,telecommunication,13,$1 to $2 billion (USD),Public,4611,1001,5000,3000.0,54.0
+61,Facebook,ai researcher,na,38,70,4.3,0,0,0,0,0,1,telecommunication,17,$5 to $10 billion (USD),Public,3950,10000,10000,10000.0,54.0
+62,"Nomura Holdings, Inc.",data scientist,na,54,80,3.9,1,1,0,1,0,1,finance,96,$10+ billion (USD),Public,3885,10000,10000,10000.0,67.0
+63,Informa Intelligence,data scientist,na,54,80,4.2,1,0,0,0,0,0,public,23,$1 to $2 billion (USD),Public,4537,1001,5000,3000.0,67.0
+64,Wefarm,analyst,na,54,80,4.3,1,1,0,0,0,0,telecommunication,6,Unknown / Non-Applicable,Private,4972,1,50,26.0,67.0
+65,Microsoft,manager,na,54,80,4.4,0,0,0,0,1,0,inforamtion tech,46,$10+ billion (USD),Public,6679,10000,10000,10000.0,67.0
+66,Jacobs,analyst,na,54,80,3.8,1,0,0,0,0,1,public,74,$10+ billion (USD),Public,4484,10000,10000,10000.0,67.0
+67,Boots,data scientist,na,54,80,3.5,1,1,0,0,0,0,medical,172,Unknown / Non-Applicable,Private,5578,10000,10000,10000.0,67.0
+68,SPT Labtech,na,na,54,80,5.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4660,51,200,126.0,67.0
+69,Templeton and Partners,data scientist,na,54,80,3.6,1,1,0,0,0,0,public,25,Unknown / Non-Applicable,Public,2280,51,200,126.0,67.0
+70,Element Materials Technology,data scientist,na,54,80,3.7,1,1,0,0,1,1,public,10,$500 million to $1 billion (USD),Private,4103,5001,10000,7500.0,67.0
+71,Paramount Recruitment Ltd,data scientist,na,54,80,3.8,1,0,0,0,0,0,public,19,Less than $1 million (USD),Private,2428,1,50,26.0,67.0
+72,Analog Devices,data scientist,na,54,80,3.9,1,1,0,0,0,0,production,56,$5 to $10 billion (USD),Public,3327,10000,10000,10000.0,67.0
+73,Selina Finance,data scientist,na,54,80,5.0,1,1,0,0,1,0,finance,2,$10 to $25 million (USD),Private,3027,1,50,26.0,67.0
+74,ECS,data scientist,na,54,80,3.5,1,1,0,1,1,1,public,13,Unknown / Non-Applicable,Private,3748,501,1000,750.0,67.0
+75,New Signature,data scientist,na,54,80,3.5,1,1,0,1,1,0,public,18,Unknown / Non-Applicable,Private,6455,201,500,350.0,67.0
+76,Institute for Apprenticeships and Technical Education,data scientist,na,54,80,-1.0,1,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Private,11561,5001,10000,7500.0,67.0
+77,City Pantry,ai researcher,na,54,80,4.3,0,0,0,0,0,0,telecommunication,7,Unknown / Non-Applicable,Private,5348,51,200,126.0,67.0
+78,Concept Resourcing,data scientist,na,54,80,4.2,1,0,0,0,0,0,public,21,Unknown / Non-Applicable,Private,1545,51,200,126.0,67.0
+79,GoCardless,data scientist,na,54,80,4.2,1,1,0,0,0,0,telecommunication,10,Unknown / Non-Applicable,Private,5588,201,500,350.0,67.0
+80,Duff & Phelps,na,na,54,80,3.8,0,0,0,0,0,1,finance,89,$1 to $2 billion (USD),Private,3671,1001,5000,3000.0,67.0
+81,GCS Recruitment Specialists Ltd,data scientist,na,54,80,4.2,1,1,0,0,0,0,public,30,Unknown / Non-Applicable,Private,1790,51,200,126.0,67.0
+82,GCS Recruitment Specialists Ltd,data scientist,na,54,80,4.2,1,1,0,0,0,0,public,30,Unknown / Non-Applicable,Private,1809,51,200,126.0,67.0
+83,ION RECRUITMENT LTD.,data scientist,na,54,80,-1.0,1,1,0,0,0,1,public,-1,$10+ billion (USD),Private,1879,51,200,126.0,67.0
+84,TalentPool,analyst,na,54,80,4.5,0,1,0,0,0,1,public,-1,Unknown / Non-Applicable,Organization,2925,1,50,26.0,67.0
+85,ECM Selection,data scientist,na,54,80,-1.0,1,1,0,0,0,1,public,-1,Less than $1 million (USD),Private,2081,1,50,26.0,67.0
+86,Saint-Gobain,data scientist,na,54,80,3.7,1,1,0,1,0,1,production,356,Unknown / Non-Applicable,Venture,5747,5001,10000,7500.0,67.0
+87,OLIVER,na,senior,54,80,3.4,0,0,0,0,0,1,telecommunication,17,Unknown / Non-Applicable,Private,5579,1001,5000,3000.0,67.0
+88,GroupM,data scientist,na,54,80,3.7,1,1,0,0,0,0,public,18,Unknown / Non-Applicable,Venture,4640,10000,10000,10000.0,67.0
+89,PayPal,analyst,senior,54,80,4.6,1,1,0,0,0,0,telecommunication,23,$10+ billion (USD),Public,4424,10000,10000,10000.0,67.0
+90,Logic Plum,data scientist,na,54,80,-1.0,1,1,0,0,0,0,public,-1,Unknown / Non-Applicable,Public,3088,1,50,26.0,67.0
+91,data/source.io,data scientist,na,54,80,-1.0,1,1,0,1,1,1,public,-1,Unknown / Non-Applicable,College / University,3261,1,50,26.0,67.0
+92,Freemavens,analyst,na,23,36,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3198,1,50,26.0,29.5
+93,Northumbria Pharma,na,na,23,36,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2547,1,50,26.0,29.5
+94,Freemavens,analyst,na,23,36,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3199,1,50,26.0,29.5
+95,Pace,na,na,23,36,5.0,0,0,0,0,0,0,public,39,Unknown / Non-Applicable,Organization,2393,201,500,350.0,29.5
+96,Faculty,director,na,23,36,3.8,0,0,0,0,0,0,telecommunication,7,$10 to $25 million (USD),Private,5009,51,200,126.0,29.5
+97,Freemavens,analyst,na,23,36,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4277,1,50,26.0,29.5
+98,Freemavens,analyst,na,23,36,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4281,1,50,26.0,29.5
+99,Ruroc,director,na,23,36,-1.0,0,0,0,0,0,1,production,11,Unknown / Non-Applicable,Private,5570,51,200,126.0,29.5
+100,Your.MD,ai researcher,na,23,36,4.2,0,0,0,0,0,1,medical,8,Unknown / Non-Applicable,Private,4046,51,200,126.0,29.5
+101,CHM Recruit,manager,na,23,36,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Public,3543,10000,10000,10000.0,29.5
+102,Elekta,manager,na,23,36,3.1,0,0,0,0,0,1,medical,49,$1 to $2 billion (USD),Public,4747,1001,5000,3000.0,29.5
+103,The Hut Group,manager,na,23,36,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,3810,5001,10000,7500.0,29.5
+104,Hobson Prior,na,na,23,36,4.4,0,0,0,0,0,1,public,19,Unknown / Non-Applicable,Venture,2179,51,200,126.0,29.5
+105,WorldRemit,ai researcher,na,23,36,2.7,0,0,0,0,1,0,finance,11,Unknown / Non-Applicable,Private,2235,1001,5000,3000.0,29.5
+106,RB,na,na,23,36,3.6,0,0,0,0,0,1,production,198,$10+ billion (USD),Public,2369,10000,10000,10000.0,29.5
+107,Costain,consultant,na,23,36,3.8,0,0,0,0,0,0,public,-1,$1 to $2 billion (USD),Public,5738,1001,5000,3000.0,29.5
+108,IQVIA,na,na,23,36,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,3305,10000,10000,10000.0,29.5
+109,Moneysupermarket Group,manager,na,23,36,4.0,0,0,0,0,0,1,telecommunication,22,$100 to $500 million (USD),Public,6699,501,1000,750.0,29.5
+110,Amazon,na,na,23,36,3.9,0,0,0,0,1,1,telecommunication,27,$10+ billion (USD),Public,3195,10000,10000,10000.0,29.5
+111,Xactly Corporation,manager,na,23,36,4.2,0,0,0,0,0,1,inforamtion tech,16,$100 to $500 million (USD),Private,8237,501,1000,750.0,29.5
+112,The Royal Society of Chemistry,na,na,23,36,4.0,0,0,0,0,0,1,public,180,$50 to $100 million (USD),Organization,2948,501,1000,750.0,29.5
+113,Gousto,manager,na,23,36,4.4,0,1,0,0,0,0,retail,9,Unknown / Non-Applicable,Private,5404,201,500,350.0,29.5
+114,Canonical,na,na,23,36,3.7,0,0,0,0,0,0,public,17,$50 to $100 million (USD),Private,2624,501,1000,750.0,29.5
+115,Kindred Group,ai researcher,na,23,36,3.6,0,0,0,0,0,1,telecommunication,24,Unknown / Non-Applicable,Public,2537,1001,5000,3000.0,29.5
+116,ZS Associates,consultant,na,23,36,3.9,0,0,0,0,0,0,public,38,Unknown / Non-Applicable,Private,3955,5001,10000,7500.0,29.5
+117,ASOS,analyst,senior,23,36,3.1,1,1,0,0,0,1,retail,21,$1 to $2 billion (USD),Public,2937,1001,5000,3000.0,29.5
+118,Park Street People,na,na,23,36,4.4,0,0,0,0,0,1,public,33,Unknown / Non-Applicable,Private,1880,1,50,26.0,29.5
+119,The Hut Group,manager,na,23,36,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4936,5001,10000,7500.0,29.5
+120,Bloom and Wild,na,senior,23,36,5.0,0,0,0,0,0,1,public,8,Unknown / Non-Applicable,Private,6095,51,200,126.0,29.5
+121,Deliveroo,manager,na,23,36,3.6,0,1,0,0,0,1,telecommunication,8,Unknown / Non-Applicable,Private,5315,1001,5000,3000.0,29.5
+122,NES Fircroft,na,na,47,67,3.6,0,0,0,0,0,0,public,43,$500 million to $1 billion (USD),Private,2229,1001,5000,3000.0,57.0
+123,University of Oxford,na,na,47,67,4.3,0,0,0,0,0,1,education,-1,$500 million to $1 billion (USD),College / University,2419,501,1000,750.0,57.0
+124,G-Research,data scientist,na,47,67,4.7,1,1,0,1,0,0,inforamtion tech,20,Unknown / Non-Applicable,Private,3389,501,1000,750.0,57.0
+125,Methods,ai researcher,na,47,67,3.6,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Venture,5338,1,50,26.0,57.0
+126,Home Office,ai researcher,na,47,67,3.8,0,0,0,0,0,0,public,239,Unknown / Non-Applicable,Government,12135,10000,10000,10000.0,57.0
+127,Moonpig,manager,na,47,67,4.4,1,1,0,0,0,0,telecommunication,21,$100 to $500 million (USD),Private,3004,51,200,126.0,57.0
+128,Study Group,na,na,47,67,3.1,0,0,0,0,0,0,education,27,$100 to $500 million (USD),Private,3189,1001,5000,3000.0,57.0
+129,Privitar,manager,na,47,67,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3479,51,200,126.0,57.0
+130,Sky,na,na,47,67,3.9,1,1,0,0,0,1,telecommunication,32,$5 to $10 billion (USD),Public,5501,10000,10000,10000.0,57.0
+131,Academics,na,na,47,67,3.3,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Venture,1611,51,200,126.0,57.0
+132,Summit Oxford,na,na,47,67,3.6,0,0,0,0,0,1,medical,-1,$1 to $5 million (USD),Public,6895,1,50,26.0,57.0
+133,Quanta,na,na,47,67,4.4,0,0,0,0,0,1,public,29,$50 to $100 million (USD),Private,2324,51,200,126.0,57.0
+134,TDR Training Ltd.,na,na,47,67,-1.0,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Organization,3439,10000,10000,10000.0,57.0
+135,Harnham,analyst,na,47,67,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2022,51,200,126.0,57.0
+136,Capgemini,na,na,47,67,4.3,0,0,0,0,0,1,inforamtion tech,54,$10+ billion (USD),Public,6095,10000,10000,10000.0,57.0
+137,Bristol Myers Squibb,manager,na,47,67,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,6171,10000,10000,10000.0,57.0
+138,Keoghs,na,na,47,67,3.4,0,0,0,0,0,1,public,53,$50 to $100 million (USD),Private,4438,1001,5000,3000.0,57.0
+139,Balfour Beatty,na,na,47,67,3.6,0,0,0,0,0,0,public,112,$500 million to $1 billion (USD),Public,3751,10000,10000,10000.0,57.0
+140,Car Finance Giant,na,na,47,67,2.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,1949,10000,10000,10000.0,57.0
+141,NELFT NHS Foundation Trust,na,na,47,67,3.4,0,0,0,0,0,0,medical,-1,$100 to $500 million (USD),Hospital,3580,5001,10000,7500.0,57.0
+142,Riskonnect,na,na,47,67,3.7,0,0,0,0,0,1,inforamtion tech,14,$100 to $500 million (USD),Private,3112,201,500,350.0,57.0
+143,Infosys Limited,na,na,47,67,3.8,0,0,0,0,0,1,public,40,$10+ billion (USD),Public,2865,10000,10000,10000.0,57.0
+144,Fresenius Kabi Limited,na,na,47,67,3.5,0,0,0,0,0,1,medical,-1,$5 to $10 billion (USD),Venture,2355,10000,10000,10000.0,57.0
+145,Sia Partners,manager,na,47,67,4.0,0,0,0,0,0,1,public,22,$100 to $500 million (USD),Private,5166,1001,5000,3000.0,57.0
+146,Royal Free NHS,na,na,47,67,3.7,0,0,0,0,0,0,medical,-1,Less than $1 million (USD),Hospital,4560,1001,5000,3000.0,57.0
+147,UL,na,na,47,67,3.5,0,0,0,0,0,1,public,127,$2 to $5 billion (USD),Private,6017,10000,10000,10000.0,57.0
+148,IPSEN,na,senior,47,67,3.7,0,0,0,0,0,1,medical,92,$2 to $5 billion (USD),Private,3696,5001,10000,7500.0,57.0
+149,Advanced Regulatory,manager,senior,47,67,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3600,1,50,26.0,57.0
+150,Advanced Regulatory,manager,senior,47,67,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3666,1,50,26.0,57.0
+151,Advanced Regulatory,manager,senior,47,67,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3791,1,50,26.0,57.0
+152,Bud,na,na,26,41,3.7,0,0,0,0,0,0,inforamtion tech,6,Unknown / Non-Applicable,Private,6597,51,200,126.0,33.5
+153,AXA UK,manager,na,26,41,4.2,1,1,0,0,0,1,finance,25,Unknown / Non-Applicable,Private,8681,5001,10000,7500.0,33.5
+154,Thomson Reuters,analyst,na,26,41,4.2,0,1,0,0,0,0,inforamtion tech,13,$5 to $10 billion (USD),Public,6354,10000,10000,10000.0,33.5
+155,Pai Skincare,na,na,26,41,4.1,0,0,0,0,0,1,production,14,Unknown / Non-Applicable,Private,3358,1,50,26.0,33.5
+156,Parrot Analytics,analyst,senior,26,41,4.0,1,1,0,0,0,1,inforamtion tech,-1,Unknown / Non-Applicable,Private,6819,1,50,26.0,33.5
+157,Pfizer,director,senior,26,41,4.2,0,0,0,0,1,1,medical,172,$10+ billion (USD),Public,6414,10000,10000,10000.0,33.5
+158,Cisco Systems,na,na,26,41,4.3,0,0,0,0,0,1,inforamtion tech,37,$10+ billion (USD),Private,4633,10000,10000,10000.0,33.5
+159,Amazon,manager,na,26,41,3.9,0,0,0,0,0,1,telecommunication,27,$10+ billion (USD),Public,3999,10000,10000,10000.0,33.5
+160,The Hut Group,manager,na,26,41,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,4731,5001,10000,7500.0,33.5
+161,Marsh and McLennan,na,na,26,41,3.7,0,0,0,0,0,1,finance,150,$10+ billion (USD),Public,5720,10000,10000,10000.0,33.5
+162,Intelligent Growth Solutions Limited,na,senior,26,41,5.0,0,1,0,0,0,0,production,8,Unknown / Non-Applicable,Private,3776,51,200,126.0,33.5
+163,Harnham,analyst,na,26,41,4.0,1,1,0,0,1,0,public,15,$25 to $50 million (USD),Private,1425,51,200,126.0,33.5
+164,Purina,manager,na,26,41,4.2,0,0,0,0,0,0,production,127,Unknown / Non-Applicable,Venture,4645,10000,10000,10000.0,33.5
+165,Touch Surgery,na,na,26,41,3.6,0,0,0,0,0,0,inforamtion tech,8,Unknown / Non-Applicable,Private,6153,51,200,126.0,33.5
+166,Bangor University,na,na,26,41,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,13912,1001,5000,3000.0,33.5
+167,Balfour Beatty,na,na,26,41,3.6,0,0,0,0,0,0,public,112,$500 million to $1 billion (USD),Public,5946,10000,10000,10000.0,33.5
+168,Smith & Nephew,na,na,26,41,3.8,0,0,0,0,0,0,medical,165,$2 to $5 billion (USD),Private,5445,10000,10000,10000.0,33.5
+169,Bangor University,na,na,26,41,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,10355,1001,5000,3000.0,33.5
+170,Bio-techne,manager,na,26,41,3.5,0,0,0,0,0,0,medical,45,$500 million to $1 billion (USD),Public,6027,1001,5000,3000.0,33.5
+171,Institute of Physics,na,na,26,41,3.1,0,0,0,0,0,0,education,147,$5 to $10 million (USD),Organization,2922,51,200,126.0,33.5
+172,Bangor University,na,na,26,41,3.7,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,10271,1001,5000,3000.0,33.5
+173,Pfizer,na,na,26,41,4.2,0,0,0,0,0,1,medical,172,$10+ billion (USD),Public,4674,10000,10000,10000.0,33.5
+174,Philips,na,na,26,41,4.2,0,0,0,0,0,0,medical,130,$10 to $25 million (USD),Public,4348,10000,10000,10000.0,33.5
+175,Syngenta,na,senior,26,41,4.0,0,0,0,0,1,1,production,21,$10 to $25 million (USD),Private,4358,10000,10000,10000.0,33.5
+176,King.com,na,na,26,41,3.2,0,0,0,0,0,1,inforamtion tech,18,Unknown / Non-Applicable,Public,3754,1001,5000,3000.0,33.5
+177,Veolia,na,na,26,41,3.5,0,1,0,0,0,1,public,168,$2 to $5 billion (USD),Public,4700,10000,10000,10000.0,33.5
+178,Global Project Resources Limited,na,na,26,41,-1.0,0,0,0,0,0,0,public,4,Unknown / Non-Applicable,Private,2538,1,50,26.0,33.5
+179,Express Recruitment,na,na,26,41,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,1667,5001,10000,7500.0,33.5
+180,Harnham,analyst,na,26,41,4.0,1,1,0,0,0,1,public,15,$25 to $50 million (USD),Private,1532,51,200,126.0,33.5
+181,EF Education First,analyst,senior,26,41,3.4,0,1,0,0,1,0,education,56,Unknown / Non-Applicable,Private,3307,10000,10000,10000.0,33.5
+182,CHM Recruit,manager,na,22,30,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Organization,3543,10000,10000,10000.0,26.0
+183,Costain,consultant,na,22,30,3.8,0,0,0,0,0,0,public,-1,$1 to $2 billion (USD),Public,5738,1001,5000,3000.0,26.0
+184,The Hut Group,manager,na,22,30,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,3810,5001,10000,7500.0,26.0
+185,OpenMarket,data scientist,senior,22,30,4.5,1,0,0,0,0,1,inforamtion tech,22,$100 to $500 million (USD),Venture,3322,201,500,350.0,26.0
+186,Jaguar Land Rover,data engineer,na,22,30,3.7,1,1,0,0,0,1,production,13,$10+ billion (USD),Private,3725,10000,10000,10000.0,26.0
+187,Man Group,na,na,22,30,3.6,1,1,0,0,0,1,finance,238,$50 to $100 million (USD),Public,7009,1001,5000,3000.0,26.0
+188,Ernst & Young,data scientist,na,22,30,3.8,1,1,0,1,0,1,finance,32,$10+ billion (USD),Private,5668,10000,10000,10000.0,26.0
+189,Matillion,na,na,22,30,4.5,1,1,0,0,1,1,inforamtion tech,10,$10 to $25 million (USD),Private,5282,201,500,350.0,26.0
+190,Xactly Corporation,manager,na,22,30,4.2,0,0,0,0,0,1,inforamtion tech,16,$100 to $500 million (USD),Private,8237,501,1000,750.0,26.0
+191,ZS Associates,consultant,na,22,30,3.9,0,0,0,0,0,0,public,38,Unknown / Non-Applicable,Private,3955,5001,10000,7500.0,26.0
+192,ASOS,analyst,senior,22,30,3.1,1,1,0,0,0,1,retail,21,$1 to $2 billion (USD),Public,2937,1001,5000,3000.0,26.0
+193,The Hut Group,manager,na,22,30,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4936,5001,10000,7500.0,26.0
+194,Park Street People,na,na,22,30,4.4,0,0,0,0,0,1,public,33,Unknown / Non-Applicable,Private,1880,1,50,26.0,26.0
+195,Thornshaw Scientific Recruitment,manager,senior,22,30,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,2629,1,50,26.0,26.0
+196,Deliveroo,manager,na,22,30,3.6,0,1,0,0,0,1,telecommunication,8,Unknown / Non-Applicable,Private,5315,1001,5000,3000.0,26.0
+197,Remit Group,na,na,22,30,4.2,0,0,0,0,0,1,education,25,Unknown / Non-Applicable,Private,5266,201,500,350.0,26.0
+198,EMCOR Group (UK),na,na,22,30,3.3,0,0,0,0,0,1,public,57,$100 to $500 million (USD),Public,5652,1001,5000,3000.0,26.0
+199,Bud,na,na,22,30,3.7,0,0,0,0,0,0,inforamtion tech,6,Unknown / Non-Applicable,Private,6597,51,200,126.0,26.0
+200,The Hut Group,manager,na,22,30,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3924,5001,10000,7500.0,26.0
+201,Thomson Reuters,analyst,na,22,30,4.2,0,1,0,0,0,0,inforamtion tech,13,$5 to $10 billion (USD),Public,6354,10000,10000,10000.0,26.0
+202,AXA UK,manager,na,22,30,4.2,1,1,0,0,0,1,finance,25,Unknown / Non-Applicable,Private,8681,5001,10000,7500.0,26.0
+203,Pai Skincare,na,na,22,30,4.1,0,0,0,0,0,1,production,14,Unknown / Non-Applicable,Private,3358,1,50,26.0,26.0
+204,Parrot Analytics,analyst,senior,22,30,4.0,1,1,0,0,0,1,inforamtion tech,-1,Unknown / Non-Applicable,Private,6819,1,50,26.0,26.0
+205,Cisco Systems,na,na,22,30,4.3,0,0,0,0,0,1,inforamtion tech,37,$10+ billion (USD),Private,4633,10000,10000,10000.0,26.0
+206,Lucy Group,na,na,22,30,3.4,0,0,0,0,0,1,public,-1,$25 to $50 million (USD),Private,4962,201,500,350.0,26.0
+207,Pfizer,director,senior,22,30,4.2,0,0,0,0,1,1,medical,172,$10+ billion (USD),Public,6414,10000,10000,10000.0,26.0
+208,"Pixalate, Inc.",data engineer,na,22,30,3.4,0,1,0,1,1,1,inforamtion tech,9,$10 to $25 million (USD),Private,3518,1,50,26.0,26.0
+209,Marsh and McLennan,na,na,22,30,3.7,0,0,0,0,0,1,finance,150,$10+ billion (USD),Public,5720,10000,10000,10000.0,26.0
+210,Intelligent Growth Solutions Limited,na,senior,22,30,5.0,0,1,0,0,0,0,production,8,Unknown / Non-Applicable,Private,3776,51,200,126.0,26.0
+211,"Pixalate, Inc.",data scientist,senior,22,30,3.4,1,1,0,0,1,1,inforamtion tech,9,$10 to $25 million (USD),Private,3706,1,50,26.0,26.0
+212,Sky,na,senior,35,47,3.9,0,1,0,0,0,0,telecommunication,32,$5 to $10 billion (USD),Public,5112,10000,10000,10000.0,41.0
+213,Quanta,na,na,35,47,4.4,0,0,0,0,0,1,public,29,$50 to $100 million (USD),Private,2324,51,200,126.0,41.0
+214,AstraZeneca UK,na,na,35,47,4.2,0,1,0,0,0,1,medical,108,$10+ billion (USD),Public,3805,10000,10000,10000.0,41.0
+215,IQVIA,director,na,35,47,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,3436,10000,10000,10000.0,41.0
+216,Domino Printing,na,na,35,47,4.3,0,0,0,0,0,1,production,43,$100 to $500 million (USD),Public,4111,1001,5000,3000.0,41.0
+217,Thermo Fisher Scientific,na,na,35,47,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,3889,10000,10000,10000.0,41.0
+218,Thermo Fisher Scientific,na,na,35,47,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,4313,10000,10000,10000.0,41.0
+219,AstraZeneca,director,senior,35,47,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5403,10000,10000,10000.0,41.0
+220,Capgemini,na,na,35,47,4.3,0,0,0,0,0,1,inforamtion tech,54,$10+ billion (USD),Public,6095,10000,10000,10000.0,41.0
+221,AstraZeneca,director,na,35,47,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5562,10000,10000,10000.0,41.0
+222,AstraZeneca,manager,na,35,47,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4709,10000,10000,10000.0,41.0
+223,AF Selection,manager,na,35,47,-1.0,0,0,0,0,0,1,public,-1,$100 to $500 million (USD),Public,3192,201,500,350.0,41.0
+224,Thermo Fisher Scientific,na,na,35,47,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,3253,10000,10000,10000.0,41.0
+225,Domino Printing Sciences,na,na,35,47,4.3,0,0,0,0,0,1,production,43,$100 to $500 million (USD),Public,3912,1001,5000,3000.0,41.0
+226,MMS Holdings Inc.,manager,na,35,47,3.9,0,0,0,0,0,1,medical,15,Unknown / Non-Applicable,Private,7573,201,500,350.0,41.0
+227,IQVIA,na,na,35,47,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2722,10000,10000,10000.0,41.0
+228,IQVIA,na,na,35,47,3.8,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Public,2722,201,500,350.0,41.0
+229,MMR Research Worldwide LTD,director,na,35,47,3.4,0,0,0,0,0,1,public,-1,$25 to $50 million (USD),Public,3710,10000,10000,10000.0,41.0
+230,"AMETEK, Inc.",director,na,35,47,4.1,0,0,0,0,0,1,production,91,$5 to $10 billion (USD),Public,3249,10000,10000,10000.0,41.0
+231,Ormiston Academies Trust,na,senior,35,47,4.1,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Organization,892,1001,5000,3000.0,41.0
+232,Keoghs,na,na,35,47,3.4,0,0,0,0,0,1,public,53,$50 to $100 million (USD),Private,4438,1001,5000,3000.0,41.0
+233,Stericycle,analyst,senior,35,47,3.5,1,0,0,0,1,1,public,32,$2 to $5 billion (USD),Public,3263,10000,10000,10000.0,41.0
+234,Gilead Sciences,director,na,35,47,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,7705,10000,10000,10000.0,41.0
+235,Stericycle,analyst,senior,35,47,3.5,1,0,0,0,0,1,public,32,$2 to $5 billion (USD),Public,2807,10000,10000,10000.0,41.0
+236,AstraZeneca,director,na,35,47,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5518,10000,10000,10000.0,41.0
+237,Gilead Sciences,director,na,35,47,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,5830,10000,10000,10000.0,41.0
+238,Kleboe Jardine,na,na,35,47,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Private,2689,201,500,350.0,41.0
+239,Infosys Limited,na,na,35,47,3.8,0,0,0,0,0,1,public,40,$10+ billion (USD),Public,2865,10000,10000,10000.0,41.0
+240,Corin,na,senior,35,47,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4026,10000,10000,10000.0,41.0
+241,MediaCom,manager,na,35,47,3.3,0,0,0,0,0,1,telecommunication,26,$1 to $2 billion (USD),Private,3531,1001,5000,3000.0,41.0
+242,Office for National Statistics,na,na,15,16,4.3,0,0,0,0,0,0,public,25,Unknown / Non-Applicable,Government,12380,1001,5000,3000.0,15.5
+243,MSD,na,na,15,16,4.1,0,0,0,0,0,1,medical,130,$10+ billion (USD),Public,6686,10000,10000,10000.0,15.5
+244,Takeda Pharmaceuticals,na,na,15,16,3.8,0,0,0,0,0,1,medical,240,$10+ billion (USD),Public,3414,10000,10000,10000.0,15.5
+245,AbbVie,director,na,15,16,3.9,0,0,0,0,0,1,medical,8,$10+ billion (USD),Public,7082,10000,10000,10000.0,15.5
+246,Runecast,manager,na,15,16,4.8,0,0,0,0,0,1,inforamtion tech,7,Unknown / Non-Applicable,Private,2970,1,50,26.0,15.5
+247,Freemavens,analyst,na,15,16,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3199,1,50,26.0,15.5
+248,Freemavens,analyst,na,15,16,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3198,1,50,26.0,15.5
+249,Northumbria Pharma,na,na,15,16,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2547,1,50,26.0,15.5
+250,Faculty,director,na,15,16,3.8,0,0,0,0,0,0,telecommunication,7,$10 to $25 million (USD),Private,5009,51,200,126.0,15.5
+251,IQVIA,na,na,15,16,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,3364,10000,10000,10000.0,15.5
+252,Vertex Pharmaceuticals,na,na,15,16,3.4,0,0,0,0,0,1,medical,32,$5 to $10 billion (USD),Public,2086,1001,5000,3000.0,15.5
+253,CK Group,manager,na,15,16,4.3,0,0,0,0,0,0,public,-1,$1 to $5 million (USD),Public,1788,1,50,26.0,15.5
+254,Freemavens,analyst,na,15,16,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4277,1,50,26.0,15.5
+255,Freemavens,analyst,na,15,16,4.4,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4281,1,50,26.0,15.5
+256,Your.MD,ai researcher,na,15,16,4.2,0,0,0,0,0,1,medical,8,Unknown / Non-Applicable,Private,4046,51,200,126.0,15.5
+257,Ruroc,director,na,15,16,-1.0,0,0,0,0,0,1,production,11,Unknown / Non-Applicable,Private,5570,51,200,126.0,15.5
+258,Walnut Unlimited,manager,na,15,16,4.1,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,6699,201,500,350.0,15.5
+259,Elekta,manager,na,15,16,3.1,0,0,0,0,0,1,medical,49,$1 to $2 billion (USD),Public,4747,1001,5000,3000.0,15.5
+260,BAE Systems Applied Intelligence,data engineer,na,15,16,3.4,1,1,0,0,0,1,inforamtion tech,50,$500 million to $1 billion (USD),Venture,4740,1001,5000,3000.0,15.5
+261,Hobson Prior,na,na,15,16,4.4,0,0,0,0,0,1,public,19,Unknown / Non-Applicable,Venture,2179,51,200,126.0,15.5
+262,Teledyne Technologies,na,na,15,16,3.2,0,0,0,0,1,1,production,22,$2 to $5 billion (USD),Public,7492,5001,10000,7500.0,15.5
+263,Gregory-Martin International,analyst,na,15,16,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Organization,3275,1,50,26.0,15.5
+264,RB,na,na,15,16,3.6,0,0,0,0,0,1,production,198,$10+ billion (USD),Public,2369,10000,10000,10000.0,15.5
+265,Costain,consultant,na,15,16,3.8,0,0,0,0,0,0,public,-1,$1 to $2 billion (USD),Public,5738,1001,5000,3000.0,15.5
+266,Kandidate,na,na,15,16,5.0,0,0,0,0,0,1,public,6,Unknown / Non-Applicable,Private,4688,1,50,26.0,15.5
+267,Harnham,na,na,15,16,4.0,0,0,0,0,0,1,public,15,$25 to $50 million (USD),Private,1403,51,200,126.0,15.5
+268,UK Government - Home Office,ai researcher,senior,15,16,3.8,0,0,0,0,0,0,public,239,Unknown / Non-Applicable,Government,6130,10000,10000,10000.0,15.5
+269,HILTI,manager,na,15,16,4.2,0,1,0,1,0,1,production,66,$1 to $2 billion (USD),Venture,4343,1001,5000,3000.0,15.5
+270,ZS Associates,consultant,na,15,16,3.9,0,0,0,0,0,0,public,38,Unknown / Non-Applicable,Private,3952,5001,10000,7500.0,15.5
+271,Intent HQ,manager,na,15,16,4.5,0,0,0,0,0,0,inforamtion tech,-1,$1 to $5 million (USD),Private,3036,1,50,26.0,15.5
+272,Canonical,na,na,78,100,3.7,0,0,0,0,0,0,public,17,$50 to $100 million (USD),Private,2624,501,1000,750.0,89.0
+273,Adobe,analyst,na,78,100,4.3,0,0,0,0,0,1,inforamtion tech,39,$5 to $10 billion (USD),Public,3819,10000,10000,10000.0,89.0
+274,University of Essex,na,senior,78,100,4.2,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,5282,1001,5000,3000.0,89.0
+275,ZS Associates,consultant,na,78,100,3.9,0,0,0,0,0,0,public,38,Unknown / Non-Applicable,Private,3955,5001,10000,7500.0,89.0
+276,Yoti,analyst,senior,78,100,3.6,0,1,0,0,0,0,public,7,Unknown / Non-Applicable,Private,4697,201,500,350.0,89.0
+277,IQVIA,analyst,na,78,100,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,3808,10000,10000,10000.0,89.0
+278,Covance,na,na,78,100,3.8,0,0,0,0,0,1,medical,25,$10 to $25 million (USD),Public,2312,10000,10000,10000.0,89.0
+279,MWI Animal Health,na,na,78,100,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Public,2077,1001,5000,3000.0,89.0
+280,Kindred Group,ai researcher,na,78,100,3.6,0,0,0,0,0,1,telecommunication,24,Unknown / Non-Applicable,Public,2537,1001,5000,3000.0,89.0
+281,Bloom and Wild,na,senior,78,100,5.0,0,0,0,0,0,1,public,8,Unknown / Non-Applicable,Private,6095,51,200,126.0,89.0
+282,Gilead Sciences,manager,na,78,100,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,6678,10000,10000,10000.0,89.0
+283,University of York,na,na,78,100,4.6,0,1,0,0,0,0,education,-1,$100 to $500 million (USD),College / University,2671,1001,5000,3000.0,89.0
+284,Veeva Systems,na,na,78,100,3.8,0,1,0,0,0,1,inforamtion tech,14,$500 million to $1 billion (USD),Public,4294,1001,5000,3000.0,89.0
+285,Merck KGaA,manager,na,78,100,4.1,0,0,0,0,0,0,medical,353,$10+ billion (USD),Public,3964,10000,10000,10000.0,89.0
+286,sofi,na,na,78,100,3.4,0,0,0,0,0,1,finance,10,Unknown / Non-Applicable,Private,3564,1001,5000,3000.0,89.0
+287,The Hut Group,manager,na,78,100,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4936,5001,10000,7500.0,89.0
+288,The Economist Newspaper Limited,analyst,senior,78,100,4.0,1,1,0,0,0,1,public,178,Unknown / Non-Applicable,Private,3416,1001,5000,3000.0,89.0
+289,Echobox,manager,na,78,100,4.5,0,0,0,0,0,0,inforamtion tech,-1,Unknown / Non-Applicable,Private,4873,1,50,26.0,89.0
+290,University of Liverpool,na,na,78,100,4.3,0,0,0,0,0,0,education,-1,$100 to $500 million (USD),College / University,1696,1001,5000,3000.0,89.0
+291,The Royal Society of Chemistry,na,na,78,100,4.0,0,0,0,0,0,1,public,180,$50 to $100 million (USD),Organization,2592,501,1000,750.0,89.0
+292,IC Resources,data engineer,na,78,100,4.4,1,1,0,0,0,0,inforamtion tech,22,Unknown / Non-Applicable,Private,1467,51,200,126.0,89.0
+293,Harnham,na,senior,78,100,4.0,1,0,0,0,0,1,public,15,$25 to $50 million (USD),Private,1660,51,200,126.0,89.0
+294,Harnham,data scientist,senior,78,100,4.0,1,0,0,1,1,0,public,15,$25 to $50 million (USD),Private,2803,51,200,126.0,89.0
+295,Pexip,na,na,78,100,4.9,1,0,0,0,1,0,inforamtion tech,9,$50 to $100 million (USD),Public,5080,201,500,350.0,89.0
+296,Gilead Sciences,manager,na,78,100,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,6697,10000,10000,10000.0,89.0
+297,The Hut Group,na,na,78,100,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,5180,5001,10000,7500.0,89.0
+298,The Hut Group,manager,na,78,100,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3924,5001,10000,7500.0,89.0
+299,Intouch Games,data engineer,na,78,100,3.6,0,1,0,0,0,1,public,-1,Unknown / Non-Applicable,Private,2461,201,500,350.0,89.0
+300,Greensill,manager,na,78,100,4.2,0,0,0,0,1,0,finance,10,Unknown / Non-Applicable,Private,3428,201,500,350.0,89.0
+301,Thomson Reuters,analyst,na,78,100,4.2,0,1,0,0,0,0,inforamtion tech,13,$5 to $10 billion (USD),Public,6354,10000,10000,10000.0,89.0
+302,Parrot Analytics,analyst,senior,20,33,4.0,1,1,0,0,0,1,inforamtion tech,-1,Unknown / Non-Applicable,Private,6819,1,50,26.0,26.5
+303,Your.MD,na,senior,20,33,4.2,0,0,0,0,0,1,medical,8,Unknown / Non-Applicable,Private,3696,51,200,126.0,26.5
+304,Cisco Systems,na,na,20,33,4.3,0,0,0,0,0,1,inforamtion tech,37,$10+ billion (USD),Private,4692,10000,10000,10000.0,26.5
+305,Yieldify,director,na,20,33,3.9,0,0,0,0,0,1,inforamtion tech,9,Unknown / Non-Applicable,Private,4302,51,200,126.0,26.5
+306,QuantuMDx Group Ltd,na,na,20,33,3.8,0,0,0,0,0,1,medical,-1,Less than $1 million (USD),Private,4717,1,50,26.0,26.5
+307,Swansea University,na,na,20,33,4.4,0,0,0,0,0,0,education,101,$100 to $500 million (USD),College / University,3077,1001,5000,3000.0,26.5
+308,Amazon,manager,senior,20,33,3.9,0,1,0,0,0,1,telecommunication,27,$10+ billion (USD),Public,5271,10000,10000,10000.0,26.5
+309,Clarivate Analytics,manager,na,20,33,3.7,0,0,0,0,0,1,public,5,$1 to $2 billion (USD),Public,5132,5001,10000,7500.0,26.5
+310,Lonza,manager,na,20,33,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,5294,10000,10000,10000.0,26.5
+311,Home Office,ai researcher,senior,20,33,3.8,0,0,0,0,0,1,public,239,Unknown / Non-Applicable,Government,14413,10000,10000,10000.0,26.5
+312,The Estée Lauder Companies,na,na,20,33,3.8,0,0,0,0,0,1,production,75,$10+ billion (USD),Public,2590,10000,10000,10000.0,26.5
+313,The Hut Group,manager,na,20,33,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,4731,5001,10000,7500.0,26.5
+314,Amazon,manager,senior,20,33,3.9,0,0,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,5359,10000,10000,10000.0,26.5
+315,Amazon,manager,senior,20,33,3.9,0,0,0,0,1,0,public,-1,$500 million to $1 billion (USD),Private,5359,10000,10000,10000.0,26.5
+316,Marsh and McLennan,na,na,20,33,3.7,0,0,0,0,0,1,finance,150,$10+ billion (USD),Public,5720,10000,10000,10000.0,26.5
+317,Oracle,manager,na,20,33,3.6,1,1,0,0,0,1,inforamtion tech,44,$10+ billion (USD),Public,4992,10000,10000,10000.0,26.5
+318,BeiGene,director,na,20,33,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,10478,1001,5000,3000.0,26.5
+319,Dornan Engineering Limited,na,na,20,33,3.3,0,0,0,0,0,0,production,55,$100 to $500 million (USD),Private,2507,1001,5000,3000.0,26.5
+320,NES Fircroft,manager,na,20,33,3.6,0,0,0,0,0,0,public,43,$500 million to $1 billion (USD),Private,2813,1001,5000,3000.0,26.5
+321,London School of Hygiene & Tropical Medicine,na,na,20,33,3.8,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,3195,501,1000,750.0,26.5
+322,Purina,manager,na,20,33,4.2,0,0,0,0,0,0,production,127,Unknown / Non-Applicable,Venture,4645,10000,10000,10000.0,26.5
+323,IQVIA,na,na,20,33,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2940,10000,10000,10000.0,26.5
+324,Bangor University,na,na,20,33,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,13912,1001,5000,3000.0,26.5
+325,Bottomline Technologies,manager,na,20,33,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4510,1001,5000,3000.0,26.5
+326,Bottomline Technologies,manager,na,20,33,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4508,1001,5000,3000.0,26.5
+327,Lonza,na,na,20,33,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,3225,10000,10000,10000.0,26.5
+328,"JPMorgan Chase Bank, N.A.",na,na,20,33,3.8,0,0,0,0,0,0,finance,222,$10+ billion (USD),Venture,2821,10000,10000,10000.0,26.5
+329,Pharmalex,manager,senior,20,33,3.7,0,0,0,0,0,1,public,6,$10 to $25 million (USD),Organization,2995,201,500,350.0,26.5
+330,Balfour Beatty,na,na,20,33,3.6,0,0,0,0,0,0,public,112,$500 million to $1 billion (USD),Public,5946,10000,10000,10000.0,26.5
+331,Healthcare Consultancy Group,na,senior,20,33,4.3,0,0,0,0,0,1,telecommunication,34,$50 to $100 million (USD),Public,5472,201,500,350.0,26.5
+332,BT,manager,senior,35,51,3.7,0,0,0,0,0,1,telecommunication,175,Unknown / Non-Applicable,Public,6310,10000,10000,10000.0,43.0
+333,Oxford Immunotec,director,na,35,51,3.2,0,0,0,0,0,1,medical,19,$25 to $50 million (USD),Public,6393,201,500,350.0,43.0
+334,Elsevier,director,na,35,51,3.7,0,1,0,0,0,1,public,141,$2 to $5 billion (USD),Venture,5424,5001,10000,7500.0,43.0
+335,Harnham,analyst,senior,35,51,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2198,51,200,126.0,43.0
+336,Cmed,na,senior,35,51,3.8,0,0,0,0,0,0,medical,21,$10 to $25 million (USD),Private,3896,201,500,350.0,43.0
+337,Cmed,na,senior,35,51,3.8,0,0,0,0,0,0,medical,21,$10 to $25 million (USD),Private,3895,201,500,350.0,43.0
+338,Harnham,analyst,na,35,51,4.0,0,0,0,0,0,1,public,15,$25 to $50 million (USD),Private,1525,51,200,126.0,43.0
+339,UK Government - Ministry of Defence,na,na,35,51,3.9,0,0,0,0,0,1,public,57,$2 to $5 billion (USD),Government,7142,10000,10000,10000.0,43.0
+340,Ministry of Defence,na,na,35,51,4.2,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Government,9662,201,500,350.0,43.0
+341,Thermo Fisher Scientific,na,na,35,51,3.6,0,0,0,0,0,0,medical,119,$10+ billion (USD),Public,5004,10000,10000,10000.0,43.0
+342,Pfizer,manager,senior,35,51,4.2,0,0,0,0,0,1,medical,172,$10+ billion (USD),Public,6411,10000,10000,10000.0,43.0
+343,Zulu Forest Sciences,director,na,35,51,-1.0,0,0,0,0,0,1,public,-1,$1 to $2 billion (USD),Public,4064,51,200,126.0,43.0
+344,Cambridge University Hospitals NHS Foundation Trust,na,senior,35,51,3.8,0,0,0,0,0,1,medical,302,$500 million to $1 billion (USD),Hospital,2333,10000,10000,10000.0,43.0
+345,Domino Printing Sciences,na,na,35,51,4.3,0,0,0,0,0,0,production,43,$100 to $500 million (USD),Public,3426,1001,5000,3000.0,43.0
+346,Global Pricing Innovations,manager,na,35,51,3.7,0,0,0,0,0,1,medical,6,Unknown / Non-Applicable,Private,3613,1,50,26.0,43.0
+347,Thermo Fisher Scientific,na,senior,35,51,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,3965,10000,10000,10000.0,43.0
+348,IQVIA,manager,na,35,51,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,4596,10000,10000,10000.0,43.0
+349,Bristol Myers Squibb,director,na,35,51,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,8009,10000,10000,10000.0,43.0
+350,Henry Nicholas Associates,na,na,35,51,5.0,0,0,0,0,0,1,public,12,Less than $1 million (USD),Private,3686,1,50,26.0,43.0
+351,Manchester Metropolitan University,na,na,35,51,4.0,0,0,0,0,0,1,education,178,Unknown / Non-Applicable,College / University,3230,1001,5000,3000.0,43.0
+352,EduStaff,na,na,35,51,4.1,0,0,0,0,0,1,public,12,$50 to $100 million (USD),Public,3654,10000,10000,10000.0,43.0
+353,Ministry of Defence,manager,na,35,51,4.2,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Government,12364,201,500,350.0,43.0
+354,TalentPool,na,na,35,51,4.5,1,1,0,0,0,0,public,-1,Unknown / Non-Applicable,Organization,2816,1,50,26.0,43.0
+355,Smith & Nephew,director,na,35,51,3.8,0,0,0,0,1,1,medical,165,$2 to $5 billion (USD),Private,4959,10000,10000,10000.0,43.0
+356,Aviva,na,senior,35,51,3.6,0,0,0,0,0,1,finance,160,$5 to $10 billion (USD),Public,4057,10000,10000,10000.0,43.0
+357,Moonpig,manager,na,35,51,4.4,1,1,0,0,0,0,telecommunication,21,$100 to $500 million (USD),Private,3004,51,200,126.0,43.0
+358,Primary Care Services,na,na,35,51,2.7,0,0,0,0,0,1,public,-1,$1 to $5 million (USD),Private,4593,51,200,126.0,43.0
+359,The Hut Group,manager,senior,35,51,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4735,5001,10000,7500.0,43.0
+360,IQVIA,na,na,35,51,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,4058,10000,10000,10000.0,43.0
+361,Study Group,na,na,35,51,3.1,0,0,0,0,0,0,education,27,$100 to $500 million (USD),Private,3189,1001,5000,3000.0,43.0
+362,European Molecular Biology Laboratory,na,na,23,42,4.4,1,0,0,1,0,1,medical,48,Unknown / Non-Applicable,Public,7652,1001,5000,3000.0,32.5
+363,Clarivate Analytics,manager,na,23,42,3.7,0,0,0,0,0,1,public,5,$1 to $2 billion (USD),Public,5132,5001,10000,7500.0,32.5
+364,Lonza,manager,na,23,42,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,5294,10000,10000,10000.0,32.5
+365,Entain,data scientist,senior,23,42,3.5,1,1,0,0,0,0,public,1,$2 to $5 billion (USD),Public,3144,10000,10000,10000.0,32.5
+366,H&R Talent,na,na,23,42,-1.0,1,1,0,0,1,1,public,-1,Less than $1 million (USD),Private,2029,1,50,26.0,32.5
+367,"Pixalate, Inc.",data engineer,na,23,42,3.4,0,1,0,1,1,1,inforamtion tech,9,$10 to $25 million (USD),Private,3518,1,50,26.0,32.5
+368,Amazon,manager,senior,23,42,3.9,0,0,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,5359,10000,10000,10000.0,32.5
+369,Deloitte UK,consultant,na,23,42,3.9,1,1,0,0,0,1,finance,171,$10+ billion (USD),Private,11083,10000,10000,10000.0,32.5
+370,Deloitte,consultant,na,23,42,3.9,1,1,0,0,0,1,finance,171,$10+ billion (USD),Private,11708,10000,10000,10000.0,32.5
+371,Citi,na,na,23,42,3.9,1,0,0,1,1,1,finance,209,$10+ billion (USD),Public,7980,10000,10000,10000.0,32.5
+372,Yelp,na,senior,23,42,3.4,1,0,0,1,0,1,telecommunication,17,$1 to $2 billion (USD),Public,3986,5001,10000,7500.0,32.5
+373,Thermo Fisher Scientific,na,na,23,42,3.6,0,0,0,0,0,0,medical,119,$10+ billion (USD),Public,4421,10000,10000,10000.0,32.5
+374,Oracle,manager,na,23,42,3.6,1,1,0,0,0,1,inforamtion tech,44,$10+ billion (USD),Public,4992,10000,10000,10000.0,32.5
+375,BeiGene,director,na,23,42,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,10478,1001,5000,3000.0,32.5
+376,"Pixalate, Inc.",data scientist,senior,23,42,3.4,1,1,0,0,1,1,inforamtion tech,9,$10 to $25 million (USD),Private,3706,1,50,26.0,32.5
+377,Dornan Engineering Limited,na,na,23,42,4.0,0,0,0,0,0,0,production,55,$100 to $500 million (USD),Private,2507,1001,5000,3000.0,32.5
+378,Moody's Corporation,director,na,23,42,3.8,0,1,0,0,0,1,finance,121,$2 to $5 billion (USD),Public,5327,10000,10000,10000.0,32.5
+379,Balfour Beatty,manager,na,23,42,3.6,0,0,0,0,0,1,public,112,$500 million to $1 billion (USD),Public,4299,10000,10000,10000.0,32.5
+380,NES Fircroft,manager,na,23,42,3.6,0,0,0,0,0,0,public,43,$500 million to $1 billion (USD),Private,2813,1001,5000,3000.0,32.5
+381,London School of Hygiene & Tropical Medicine,na,na,23,42,3.8,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,3195,501,1000,750.0,32.5
+382,Citi,na,na,23,42,3.9,1,0,0,1,1,1,finance,209,$10+ billion (USD),Public,7752,10000,10000,10000.0,32.5
+383,IQVIA,na,na,23,42,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2940,10000,10000,10000.0,32.5
+384,Bottomline Technologies,manager,na,23,42,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4510,1001,5000,3000.0,32.5
+385,Lonza,na,na,23,42,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,3225,10000,10000,10000.0,32.5
+386,Bottomline Technologies,manager,na,23,42,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4508,1001,5000,3000.0,32.5
+387,SPX FLOW,manager,na,23,42,3.2,0,0,0,0,0,1,production,6,$2 to $5 billion (USD),Public,2193,5001,10000,7500.0,32.5
+388,Pharmalex,manager,senior,23,42,3.7,0,0,0,0,0,1,public,6,$10 to $25 million (USD),Organization,2995,201,500,350.0,32.5
+389,Salesforce,manager,senior,23,42,4.4,1,1,0,0,0,1,inforamtion tech,22,$10+ billion (USD),Public,6356,10000,10000,10000.0,32.5
+390,Echobox,manager,na,23,42,4.5,0,0,0,0,0,0,inforamtion tech,-1,Unknown / Non-Applicable,Private,4866,1,50,26.0,32.5
+391,Client Server,na,na,23,42,4.4,1,1,0,0,0,0,public,22,Unknown / Non-Applicable,Private,1883,51,200,126.0,32.5
+392,Guardant Health,director,na,32,67,3.9,0,0,0,0,0,0,medical,8,Unknown / Non-Applicable,Public,5000,501,1000,750.0,49.5
+393,Bristol Myers Squibb,director,na,32,67,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,8009,10000,10000,10000.0,49.5
+394,Henry Nicholas Associates,na,na,32,67,5.0,0,0,0,0,0,1,public,12,Less than $1 million (USD),Private,3686,1,50,26.0,49.5
+395,Manchester Metropolitan University,na,na,32,67,4.0,0,0,0,0,0,1,education,178,Unknown / Non-Applicable,College / University,3230,1001,5000,3000.0,49.5
+396,TalentPool,na,na,32,67,4.5,1,1,0,0,0,0,public,-1,Unknown / Non-Applicable,Organization,2816,1,50,26.0,49.5
+397,Ministry of Defence,manager,na,32,67,4.2,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Government,12364,201,500,350.0,49.5
+398,Aviva,na,senior,32,67,3.6,0,0,0,0,0,1,finance,160,$5 to $10 billion (USD),Public,4057,10000,10000,10000.0,49.5
+399,Moonpig,manager,na,32,67,4.4,1,1,0,0,0,0,telecommunication,21,$100 to $500 million (USD),Private,3004,51,200,126.0,49.5
+400,Smith & Nephew,director,na,32,67,3.8,0,0,0,0,1,1,medical,165,$2 to $5 billion (USD),Private,4959,10000,10000,10000.0,49.5
+401,Study Group,na,na,32,67,3.1,0,0,0,0,0,0,education,27,$100 to $500 million (USD),Private,3189,1001,5000,3000.0,49.5
+402,The Hut Group,manager,senior,32,67,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4735,5001,10000,7500.0,49.5
+403,Privitar,manager,na,32,67,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3479,51,200,126.0,49.5
+404,Ecole Jeannine Manuel - UK,na,na,32,67,2.4,0,0,0,0,0,0,education,6,Unknown / Non-Applicable,Private,2072,51,200,126.0,49.5
+405,Bangor University,na,na,32,67,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,11801,1001,5000,3000.0,49.5
+406,Hastings Direct,na,na,32,67,3.6,0,1,0,0,0,0,finance,25,$50 to $100 million (USD),Private,2696,1001,5000,3000.0,49.5
+407,IDBS,na,senior,32,67,4.3,0,0,0,0,0,0,medical,36,$10+ billion (USD),Public,4069,1001,5000,3000.0,49.5
+408,IQVIA,na,senior,32,67,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,3846,10000,10000,10000.0,49.5
+409,Sky,na,na,32,67,3.9,1,1,0,0,0,1,telecommunication,32,$5 to $10 billion (USD),Public,5501,10000,10000,10000.0,49.5
+410,RSC - London,na,na,32,67,-1.0,0,0,0,0,0,1,public,-1,$100 to $500 million (USD),Hospital,2932,10000,10000,10000.0,49.5
+411,Northumbria Pharma,na,senior,32,67,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2667,1,50,26.0,49.5
+412,Pall,manager,na,32,67,2.5,0,0,0,0,0,1,medical,75,$2 to $5 billion (USD),Venture,3391,10000,10000,10000.0,49.5
+413,Appirio,na,senior,32,67,2.5,0,0,0,0,0,1,public,15,$100 to $500 million (USD),Private,6235,1001,5000,3000.0,49.5
+414,Summit Oxford,na,na,32,67,3.6,0,0,0,0,0,1,medical,-1,$1 to $5 million (USD),Public,6895,1,50,26.0,49.5
+415,GW Pharmaceuticals,manager,senior,32,67,3.4,0,0,0,0,0,1,medical,24,$25 to $50 million (USD),Public,5522,51,200,126.0,49.5
+416,Academics,na,na,32,67,3.3,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Venture,1611,51,200,126.0,49.5
+417,MediaCom,manager,na,32,67,3.5,0,0,0,0,0,1,telecommunication,-1,$10 to $25 million (USD),Private,3531,5001,10000,7500.0,49.5
+418,huumun,na,na,32,67,3.0,0,0,0,0,0,1,telecommunication,18,Unknown / Non-Applicable,Private,2484,51,200,126.0,49.5
+419,WorldRemit,analyst,senior,32,67,2.7,1,1,0,0,0,1,finance,11,Unknown / Non-Applicable,Private,3161,1001,5000,3000.0,49.5
+420,Bangor University,manager,na,32,67,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,18410,1001,5000,3000.0,49.5
+421,Sky,na,senior,32,67,3.9,0,1,0,0,0,0,telecommunication,32,$5 to $10 billion (USD),Public,5112,10000,10000,10000.0,49.5
+422,Bangor University,na,na,40,47,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,10355,1001,5000,3000.0,43.5
+423,Gartner,analyst,na,40,47,3.7,0,0,0,0,0,1,public,42,$2 to $5 billion (USD),Public,6282,10000,10000,10000.0,43.5
+424,Bangor University,na,na,40,47,3.7,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,10271,1001,5000,3000.0,43.5
+425,AstraZeneca,na,na,40,47,4.2,1,1,0,1,1,1,medical,108,$10+ billion (USD),Public,6794,10000,10000,10000.0,43.5
+426,Austin Fraser,data engineer,na,40,47,4.5,1,1,0,0,0,1,public,14,$50 to $100 million (USD),Private,2846,201,500,350.0,43.5
+427,G-Research,na,na,40,47,4.7,1,1,0,1,0,1,inforamtion tech,20,Unknown / Non-Applicable,Private,3493,501,1000,750.0,43.5
+428,Global Project Resources Limited,na,na,40,47,-1.0,0,0,0,0,0,0,public,4,Unknown / Non-Applicable,Private,2538,1,50,26.0,43.5
+429,bluprint,manager,na,40,47,2.0,0,0,0,0,0,1,telecommunication,16,Less than $1 million (USD),Private,5012,1,50,26.0,43.5
+430,Express Recruitment,na,na,40,47,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,1667,10000,10000,10000.0,43.5
+431,Triumph Consultants Ltd,na,senior,40,47,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4721,10000,10000,10000.0,43.5
+432,Thornbury Community Services,consultant,senior,40,47,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,3452,10000,10000,10000.0,43.5
+433,Amazon,analyst,senior,40,47,3.9,0,1,0,0,0,1,telecommunication,27,$10+ billion (USD),Public,2473,10000,10000,10000.0,43.5
+434,GW Pharmaceuticals,na,senior,40,47,3.4,0,0,0,0,0,1,medical,24,$25 to $50 million (USD),Public,6947,51,200,126.0,43.5
+435,Touch Surgery,na,senior,40,47,3.6,0,0,0,0,0,1,inforamtion tech,8,Unknown / Non-Applicable,Private,9315,51,200,126.0,43.5
+436,Pace,na,na,40,47,2.8,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,2391,1,50,26.0,43.5
+437,QIAGEN,manager,na,40,47,3.7,0,0,0,0,0,1,medical,37,$1 to $2 billion (USD),Public,4481,5001,10000,7500.0,43.5
+438,dunnhumby,data scientist,senior,40,47,4.2,1,1,0,1,0,0,public,32,$500 million to $1 billion (USD),Private,2948,1001,5000,3000.0,43.5
+439,Thornbury Community Services,na,na,40,47,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,3665,51,200,126.0,43.5
+440,Emitwise,analyst,na,40,47,5.0,1,0,0,0,0,1,inforamtion tech,2,Unknown / Non-Applicable,Private,4524,1,50,26.0,43.5
+441,AI-Adam,na,na,40,47,4.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Organization,1097,1,50,26.0,43.5
+442,The Candidate,analyst,senior,40,47,5.0,0,1,0,0,0,0,public,-1,Less than $1 million (USD),Private,2142,1,50,26.0,43.5
+443,Marsh and McLennan,na,na,40,47,3.7,0,0,0,0,0,1,finance,150,$10+ billion (USD),Public,5646,10000,10000,10000.0,43.5
+444,Corin,na,senior,40,47,3.1,0,0,0,0,0,1,medical,36,$100 to $500 million (USD),Public,4030,201,500,350.0,43.5
+445,Edinburgh Napier University,na,na,40,47,4.2,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,3186,1001,5000,3000.0,43.5
+446,"Ministry of Housing, Communities & Local Government",na,senior,40,47,4.2,0,0,0,0,0,0,public,15,Unknown / Non-Applicable,Government,12664,1001,5000,3000.0,43.5
+447,Bristol Myers Squibb,director,na,40,47,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,7266,10000,10000,10000.0,43.5
+448,Touch Surgery,na,senior,40,47,3.6,1,1,0,1,1,1,inforamtion tech,8,Unknown / Non-Applicable,Private,6379,51,200,126.0,43.5
+449,Arup,na,na,40,47,4.0,0,0,0,0,0,1,public,75,$100 to $500 million (USD),Private,4121,10000,10000,10000.0,43.5
+450,Behavioural Insights Team,na,na,40,47,4.1,0,0,0,0,0,1,public,7,Unknown / Non-Applicable,Private,8318,51,200,126.0,43.5
+451,Henry Nicholas Associates,na,na,40,47,5.0,0,0,0,0,0,1,public,12,Less than $1 million (USD),Private,3686,1,50,26.0,43.5
+452,Keoghs,na,na,95,107,3.4,0,0,0,0,0,1,public,53,$50 to $100 million (USD),Private,4438,1001,5000,3000.0,101.0
+453,Car Finance Giant,na,na,95,107,2.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,1949,1,50,26.0,101.0
+454,Citi,na,na,95,107,3.9,1,1,0,0,0,1,finance,209,$10+ billion (USD),Public,4447,10000,10000,10000.0,101.0
+455,IQVIA,director,na,95,107,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,5622,10000,10000,10000.0,101.0
+456,Hales Jobs,na,senior,95,107,2.7,0,0,0,0,0,0,public,22,$10 to $25 million (USD),Organization,2939,201,500,350.0,101.0
+457,IBM,consultant,senior,95,107,3.9,0,0,0,0,0,1,public,110,$10+ billion (USD),Public,6675,10000,10000,10000.0,101.0
+458,Sainsburys,analyst,na,95,107,3.6,1,1,0,0,0,1,retail,152,$10+ billion (USD),Public,5145,10000,10000,10000.0,101.0
+459,Tribal Worldwide,na,na,95,107,2.9,0,0,0,0,0,1,telecommunication,21,$10 to $25 million (USD),Venture,5604,51,200,126.0,101.0
+460,Balfour Beatty,na,na,95,107,3.6,0,0,0,0,0,0,public,112,$500 million to $1 billion (USD),Public,3751,10000,10000,10000.0,101.0
+461,Stericycle,analyst,senior,95,107,3.5,1,0,0,0,0,1,public,32,$2 to $5 billion (USD),Public,2807,10000,10000,10000.0,101.0
+462,Stericycle,analyst,senior,95,107,3.5,1,0,0,0,1,1,public,32,$2 to $5 billion (USD),Public,3263,10000,10000,10000.0,101.0
+463,Privitar,manager,senior,95,107,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3612,51,200,126.0,101.0
+464,ADV Talent Partners,manager,na,95,107,-1.0,0,0,0,0,0,0,public,-1,$50 to $100 million (USD),Private,3157,51,200,126.0,101.0
+465,Deloitte,manager,senior,95,107,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,12034,10000,10000,10000.0,101.0
+466,Deloitte UK,manager,senior,95,107,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,11429,10000,10000,10000.0,101.0
+467,Tag Games,na,senior,95,107,3.8,0,0,0,0,0,1,inforamtion tech,15,$50 to $100 million (USD),Private,3115,1,50,26.0,101.0
+468,NELFT NHS Foundation Trust,na,na,95,107,3.4,0,0,0,0,0,0,medical,-1,$100 to $500 million (USD),Hospital,3580,5001,10000,7500.0,101.0
+469,Midlands Partnership NHS Foundation Trust,na,senior,95,107,4.4,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Government,5329,5001,10000,7500.0,101.0
+470,SKA Organisation,director,na,95,107,5.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,10275,51,200,126.0,101.0
+471,Skills Union,na,na,95,107,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Private,3993,51,200,126.0,101.0
+472,Riskonnect,na,na,95,107,3.7,0,0,0,0,0,1,inforamtion tech,14,$100 to $500 million (USD),Private,3112,201,500,350.0,101.0
+473,Moody's Corporation,na,senior,95,107,3.8,0,0,0,0,1,1,finance,121,$2 to $5 billion (USD),Public,10913,10000,10000,10000.0,101.0
+474,ADV Talent Partners,na,na,95,107,-1.0,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Organization,3867,10000,10000,10000.0,101.0
+475,Deloitte UK,manager,na,95,107,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,11429,10000,10000,10000.0,101.0
+476,Infosys Limited,na,na,95,107,3.8,0,0,0,0,0,1,public,40,$10+ billion (USD),Public,2865,10000,10000,10000.0,101.0
+477,Deloitte,manager,na,95,107,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,12034,10000,10000,10000.0,101.0
+478,Provide Education,na,na,95,107,1.5,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4281,51,200,126.0,101.0
+479,LTG,na,na,95,107,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Private,5027,1001,5000,3000.0,101.0
+480,BR Recruitment Ltd,manager,na,95,107,-1.0,0,0,0,0,0,1,public,-1,$50 to $100 million (USD),Private,5669,1,50,26.0,101.0
+481,MediaCom,manager,na,95,107,3.3,0,0,0,0,0,1,telecommunication,26,$1 to $2 billion (USD),Private,3531,1001,5000,3000.0,101.0
+482,British Trust for Ornithology (BTO),na,na,25,48,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Private,1774,1,50,26.0,36.5
+483,AstraZeneca,director,na,25,48,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4647,10000,10000,10000.0,36.5
+484,Sia Partners,manager,na,25,48,4.0,0,0,0,0,0,1,public,22,$100 to $500 million (USD),Private,5166,1001,5000,3000.0,36.5
+485,Royal Free NHS,na,na,25,48,3.7,0,0,0,0,0,0,medical,-1,Less than $1 million (USD),Hospital,4560,501,1000,750.0,36.5
+486,Harnham,analyst,senior,25,48,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,1787,51,200,126.0,36.5
+487,System C Healthcare,na,senior,25,48,4.3,0,1,0,0,0,1,inforamtion tech,38,$25 to $50 million (USD),Private,3017,201,500,350.0,36.5
+488,AstraZeneca,na,senior,25,48,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4745,10000,10000,10000.0,36.5
+489,The Rosalind Franklin Institute,na,na,25,48,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),College / University,7024,51,200,126.0,36.5
+490,The Rosalind Franklin Institute,na,na,25,48,-1.0,0,0,0,0,0,1,public,-1,$500 million to $1 billion (USD),College / University,6632,5001,10000,7500.0,36.5
+491,Advanced Regulatory,na,na,25,48,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4145,1,50,26.0,36.5
+492,Advanced Regulatory,na,senior,25,48,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4548,1,50,26.0,36.5
+493,IPSEN,na,senior,25,48,3.7,0,0,0,0,0,1,medical,92,$2 to $5 billion (USD),Private,3696,5001,10000,7500.0,36.5
+494,UL,na,na,25,48,3.5,0,0,0,0,0,1,public,127,$2 to $5 billion (USD),Private,6017,10000,10000,10000.0,36.5
+495,Cardiff Blues,na,na,25,48,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Public,2988,51,200,126.0,36.5
+496,Gloucestershire Hospitals NHS Foundation Trust,na,senior,25,48,3.9,0,0,0,0,0,0,medical,19,Unknown / Non-Applicable,Hospital,2491,5001,10000,7500.0,36.5
+497,IQVIA,na,na,25,48,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2992,10000,10000,10000.0,36.5
+498,Laing O'Rourke,na,na,25,48,4.1,0,0,0,0,0,0,public,173,$1 to $2 billion (USD),Private,5252,5001,10000,7500.0,36.5
+499,AstraZeneca,na,senior,25,48,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4743,10000,10000,10000.0,36.5
+500,Deep Science Ventures,director,na,25,48,4.8,0,1,0,1,0,0,public,-1,Less than $1 million (USD),Private,4548,1,50,26.0,36.5
+501,Hvivo,na,na,25,48,2.2,0,0,0,0,0,1,medical,33,$10 to $25 million (USD),Public,4074,201,500,350.0,36.5
+502,TDR Training Ltd.,na,na,25,48,-1.0,0,0,0,0,0,0,public,-1,$10 to $25 million (USD),Public,3456,201,500,350.0,36.5
+503,TDR Training Ltd.,na,na,25,48,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Organization,3271,10000,10000,10000.0,36.5
+504,The Education Specialist,na,na,25,48,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Private,3635,10000,10000,10000.0,36.5
+505,Advanced Regulatory,manager,senior,25,48,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3666,1,50,26.0,36.5
+506,Advanced Regulatory,director,senior,25,48,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4512,1,50,26.0,36.5
+507,BeiGene,director,na,25,48,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,7000,1001,5000,3000.0,36.5
+508,Tesco,na,senior,25,48,3.8,0,0,0,0,0,1,retail,102,Unknown / Non-Applicable,Private,6892,10000,10000,10000.0,36.5
+509,AstraZeneca,director,na,25,48,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5274,10000,10000,10000.0,36.5
+510,AstraZeneca,director,na,25,48,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5278,10000,10000,10000.0,36.5
+511,Eurovia UK,na,na,25,48,3.4,0,0,0,0,0,1,public,97,$5 to $10 billion (USD),Private,2519,10000,10000,10000.0,36.5
+512,The Hut Group,manager,na,22,28,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3924,5001,10000,7500.0,25.0
+513,Bud,na,na,22,28,3.7,0,0,0,0,0,0,inforamtion tech,6,Unknown / Non-Applicable,Private,6597,51,200,126.0,25.0
+514,The Hut Group,na,na,22,28,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,5180,5001,10000,7500.0,25.0
+515,AXA UK,manager,na,22,28,4.2,1,1,0,0,0,1,finance,25,Unknown / Non-Applicable,Private,8681,5001,10000,7500.0,25.0
+516,Thomson Reuters,analyst,na,22,28,4.2,0,1,0,0,0,0,inforamtion tech,13,$5 to $10 billion (USD),Public,6354,10000,10000,10000.0,25.0
+517,Pai Skincare,na,na,22,28,4.1,0,0,0,0,0,1,production,14,Unknown / Non-Applicable,Private,3358,1,50,26.0,25.0
+518,PokerStars,na,na,22,28,3.8,1,1,0,1,0,1,public,17,$50 to $100 million (USD),Private,4188,1001,5000,3000.0,25.0
+519,Citi,na,na,22,28,3.9,1,1,0,0,1,0,finance,209,$10+ billion (USD),Public,4456,10000,10000,10000.0,25.0
+520,South Gloucestershire Council,na,na,22,28,4.3,0,0,0,0,0,0,public,25,Less than $1 million (USD),Government,3517,1001,5000,3000.0,25.0
+521,Your.MD,na,senior,22,28,4.2,0,0,0,0,0,1,medical,8,Unknown / Non-Applicable,Private,3696,51,200,126.0,25.0
+522,Parrot Analytics,analyst,senior,22,28,4.0,1,1,0,0,0,1,inforamtion tech,-1,Unknown / Non-Applicable,Private,6819,1,50,26.0,25.0
+523,Cisco Systems,na,na,22,28,4.3,0,0,0,0,0,1,inforamtion tech,37,$10+ billion (USD),Private,4692,10000,10000,10000.0,25.0
+524,Peak,na,na,22,28,4.8,1,0,0,1,1,1,inforamtion tech,7,Unknown / Non-Applicable,Private,5292,51,200,126.0,25.0
+525,QuantuMDx Group Ltd,na,na,22,28,3.8,0,0,0,0,0,1,medical,-1,Less than $1 million (USD),Private,4717,1,50,26.0,25.0
+526,Yieldify,director,na,22,28,3.9,0,0,0,0,0,1,inforamtion tech,9,Unknown / Non-Applicable,Private,4302,51,200,126.0,25.0
+527,Swansea University,na,na,22,28,4.4,0,0,0,0,0,0,education,101,$100 to $500 million (USD),College / University,3077,1001,5000,3000.0,25.0
+528,Ripjar,data engineer,senior,22,28,4.4,1,0,0,1,0,0,inforamtion tech,9,Unknown / Non-Applicable,Private,4918,51,200,126.0,25.0
+529,Amazon,manager,senior,22,28,3.9,0,1,0,0,0,1,telecommunication,27,$10+ billion (USD),Public,5271,10000,10000,10000.0,25.0
+530,Wunderman Thompson UK,consultant,na,22,28,4.1,0,1,0,1,1,0,telecommunication,3,Unknown / Non-Applicable,Public,6342,1001,5000,3000.0,25.0
+531,Clarivate Analytics,manager,na,22,28,3.7,0,0,0,0,0,1,public,5,$1 to $2 billion (USD),Public,5132,5001,10000,7500.0,25.0
+532,Lonza,manager,na,22,28,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,5294,10000,10000,10000.0,25.0
+533,Entain,data scientist,senior,22,28,3.5,1,1,0,0,0,0,public,1,$2 to $5 billion (USD),Public,3144,10000,10000,10000.0,25.0
+534,Pfizer,director,senior,22,28,4.2,0,0,0,0,1,1,medical,172,$10+ billion (USD),Public,6414,10000,10000,10000.0,25.0
+535,AWS EMEA SARL (UK Branch),na,na,22,28,3.9,1,1,0,1,1,1,telecommunication,27,$10+ billion (USD),Public,3027,10000,10000,10000.0,25.0
+536,Amazon,manager,senior,22,28,3.9,0,0,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,5359,10000,10000,10000.0,25.0
+537,"Pixalate, Inc.",data engineer,na,22,28,3.4,0,1,0,1,1,1,inforamtion tech,9,$10 to $25 million (USD),Private,3518,1,50,26.0,25.0
+538,The Hut Group,manager,na,22,28,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,4731,5001,10000,7500.0,25.0
+539,Novation Solutions Ltd,data scientist,senior,22,28,-1.0,1,1,0,1,0,0,public,-1,$10 to $25 million (USD),Public,3759,10000,10000,10000.0,25.0
+540,Google,mle,na,22,28,4.5,1,0,0,0,0,0,telecommunication,23,$10+ billion (USD),Public,5021,10000,10000,10000.0,25.0
+541,Citibank,data scientist,senior,22,28,4.0,1,0,0,1,0,1,finance,-1,Less than $1 million (USD),Private,7353,1001,5000,3000.0,25.0
+542,MSD,na,na,35,50,4.1,0,0,0,0,0,1,medical,130,$10+ billion (USD),Public,6694,10000,10000,10000.0,42.5
+543,Amazon,manager,senior,35,50,3.9,0,0,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,5359,10000,10000,10000.0,42.5
+544,Innovate UK,manager,na,35,50,3.3,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Private,6919,5001,10000,7500.0,42.5
+545,Pfizer,na,na,35,50,4.2,0,0,0,0,0,1,medical,172,$10+ billion (USD),Public,5622,10000,10000,10000.0,42.5
+546,The Jordans Dorset Ryvita Company,manager,na,35,50,-1.0,0,0,0,0,0,1,public,-1,$2 to $5 billion (USD),Private,4255,5001,10000,7500.0,42.5
+547,Thermo Fisher Scientific,na,na,35,50,3.6,0,0,0,0,0,0,medical,119,$10+ billion (USD),Public,4421,10000,10000,10000.0,42.5
+548,IXICO,manager,na,35,50,2.5,0,0,0,0,0,1,medical,-1,Less than $1 million (USD),Private,7392,1,50,26.0,42.5
+549,Oracle,manager,na,35,50,3.6,1,1,0,0,0,1,inforamtion tech,44,$10+ billion (USD),Public,4992,10000,10000,10000.0,42.5
+550,Splend,na,na,35,50,3.4,1,1,0,0,1,0,public,6,$100 to $500 million (USD),Private,2961,51,200,126.0,42.5
+551,Skiller Whale,na,na,35,50,-1.0,0,0,0,0,0,1,public,-1,$5 to $10 billion (USD),College / University,4172,1001,5000,3000.0,42.5
+552,BeiGene,director,na,35,50,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,10478,1001,5000,3000.0,42.5
+553,NES Fircroft,manager,na,35,50,3.6,0,0,0,0,0,0,public,43,$500 million to $1 billion (USD),Private,2813,1001,5000,3000.0,42.5
+554,Dornan Engineering Limited,na,na,35,50,3.3,0,0,0,0,0,0,production,55,$100 to $500 million (USD),Private,2507,1001,5000,3000.0,42.5
+555,Harnham,analyst,na,35,50,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2238,51,200,126.0,42.5
+556,Jacobs,na,na,35,50,3.8,0,0,0,0,0,1,public,74,$10+ billion (USD),Public,8088,10000,10000,10000.0,42.5
+557,London School of Hygiene & Tropical Medicine,na,na,35,50,3.8,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,3195,501,1000,750.0,42.5
+558,London School of Hygiene & Tropical Medicine,na,na,35,50,3.8,0,0,0,0,0,1,public,-1,$10+ billion (USD),Private,3195,5001,10000,7500.0,42.5
+559,Jacobs,na,na,35,50,3.8,0,0,0,0,0,1,public,74,$10+ billion (USD),Public,8079,10000,10000,10000.0,42.5
+560,Facebook,data engineer,na,35,50,4.3,1,1,0,0,0,1,telecommunication,17,$5 to $10 billion (USD),Public,3152,10000,10000,10000.0,42.5
+561,IQVIA,na,na,35,50,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2940,10000,10000,10000.0,42.5
+562,Bottomline Technologies,manager,na,35,50,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4508,1001,5000,3000.0,42.5
+563,Bottomline Technologies,manager,na,35,50,3.8,0,0,0,0,0,0,inforamtion tech,32,$100 to $500 million (USD),Public,4510,1001,5000,3000.0,42.5
+564,Lonza,na,na,35,50,3.4,0,0,0,0,0,1,medical,124,$5 to $10 billion (USD),Public,3225,10000,10000,10000.0,42.5
+565,Emitwise,na,senior,35,50,5.0,1,0,0,0,0,1,inforamtion tech,2,Unknown / Non-Applicable,Private,4702,1,50,26.0,42.5
+566,"JPMorgan Chase Bank, N.A.",na,na,35,50,3.8,0,0,0,0,0,0,finance,222,$10+ billion (USD),Venture,2821,10000,10000,10000.0,42.5
+567,MSD,director,senior,35,50,4.1,0,0,0,0,0,0,medical,130,$10+ billion (USD),Public,5562,10000,10000,10000.0,42.5
+568,Pharmalex,manager,senior,35,50,3.7,0,0,0,0,0,1,public,6,$10 to $25 million (USD),Organization,2995,201,500,350.0,42.5
+569,Smith & Nephew,na,na,35,50,3.8,0,0,0,0,0,0,medical,165,$2 to $5 billion (USD),Private,5445,10000,10000,10000.0,42.5
+570,Innovate UK,analyst,na,35,50,3.3,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Private,9533,1001,5000,3000.0,42.5
+571,The Specialist Works,na,na,32,67,4.1,1,1,0,0,0,1,telecommunication,18,$100 to $500 million (USD),Private,5933,51,200,126.0,49.5
+572,EduStaff,na,na,32,67,4.1,0,0,0,0,0,1,public,12,$50 to $100 million (USD),Public,3654,10000,10000,10000.0,49.5
+573,IQVIA,na,na,32,67,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2921,10000,10000,10000.0,49.5
+574,Primary Care Services,na,na,32,67,2.7,0,0,0,0,0,1,public,-1,$1 to $5 million (USD),Private,4593,51,200,126.0,49.5
+575,IQVIA,na,na,32,67,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,4058,10000,10000,10000.0,49.5
+576,AstraZeneca,director,senior,32,67,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5470,10000,10000,10000.0,49.5
+577,Mylan Inc.,na,senior,32,67,3.6,0,0,0,0,0,1,medical,60,$5 to $10 billion (USD),Public,3530,10000,10000,10000.0,49.5
+578,Bangor University,na,na,32,67,3.7,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,11968,1001,5000,3000.0,49.5
+579,NES Fircroft,na,senior,32,67,3.6,0,0,0,0,0,0,public,43,$500 million to $1 billion (USD),Private,3159,1001,5000,3000.0,49.5
+580,IQVIA,director,senior,32,67,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,4828,10000,10000,10000.0,49.5
+581,IQVIA,na,na,32,67,3.8,0,0,0,0,1,0,medical,4,$2 to $5 billion (USD),Public,3472,10000,10000,10000.0,49.5
+582,GSK,manager,na,32,67,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,8473,10000,10000,10000.0,49.5
+583,Pall,manager,na,32,67,3.6,0,0,0,0,0,1,medical,75,$2 to $5 billion (USD),Venture,3391,10000,10000,10000.0,49.5
+584,Trainline,analyst,senior,32,67,4.0,1,1,0,0,0,1,telecommunication,22,$100 to $500 million (USD),Public,5145,501,1000,750.0,49.5
+585,The Hut Group,manager,senior,22,30,3.3,0,0,0,0,0,0,retail,17,$500 million to $1 billion (USD),Private,4735,5001,10000,7500.0,26.0
+586,Amazon,na,na,22,30,3.9,1,1,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,3478,10000,10000,10000.0,26.0
+587,Amazon,na,na,22,30,3.9,1,1,0,0,1,0,telecommunication,27,$10+ billion (USD),Public,3478,10000,10000,10000.0,26.0
+588,Study Group,na,na,22,30,3.1,0,0,0,0,0,0,education,27,$100 to $500 million (USD),Private,3189,1001,5000,3000.0,26.0
+589,Nomad Digital,na,na,22,30,4.0,0,1,0,0,0,1,telecommunication,19,$50 to $100 million (USD),Venture,2473,201,500,350.0,26.0
+590,Privitar,manager,na,22,30,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3479,51,200,126.0,26.0
+591,AstraZeneca,director,senior,22,30,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5470,10000,10000,10000.0,26.0
+592,Bangor University,na,na,22,30,3.7,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,11968,1001,5000,3000.0,26.0
+593,Mylan Inc.,na,senior,22,30,3.6,0,0,0,0,0,1,medical,60,$5 to $10 billion (USD),Public,3530,10000,10000,10000.0,26.0
+594,Couchbase,na,na,22,30,4.7,1,1,0,0,1,0,inforamtion tech,10,Unknown / Non-Applicable,Private,6211,501,1000,750.0,26.0
+595,IQVIA,director,senior,22,30,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,4828,10000,10000,10000.0,26.0
+596,Syneos Health Clinical,manager,na,22,30,3.5,0,0,0,0,0,1,medical,-1,Unknown / Non-Applicable,Public,5251,10000,10000,10000.0,26.0
+597,Quanta,manager,na,22,30,4.4,0,0,0,0,0,1,public,29,$50 to $100 million (USD),Private,3153,51,200,126.0,26.0
+598,Trainline,analyst,senior,22,30,4.0,1,1,0,0,0,1,telecommunication,22,$100 to $500 million (USD),Public,5145,501,1000,750.0,26.0
+599,IQVIA,na,na,22,30,3.8,0,0,0,0,1,0,medical,4,$2 to $5 billion (USD),Public,3472,10000,10000,10000.0,26.0
+600,IQVIA,na,na,22,30,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,3815,10000,10000,10000.0,26.0
+601,OLIVER,na,senior,22,30,5.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,5567,1,50,26.0,26.0
+602,Congenica,manager,na,22,30,3.3,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4628,51,200,126.0,26.0
+603,Jacobs,na,na,22,30,3.8,0,0,0,0,0,1,public,74,$10+ billion (USD),Public,9145,10000,10000,10000.0,26.0
+604,Thales,na,na,22,30,3.9,0,0,0,0,0,0,public,21,$10+ billion (USD),Public,5500,10000,10000,10000.0,26.0
+605,Proofpoint,na,na,22,30,3.8,0,0,0,0,0,1,inforamtion tech,19,$100 to $500 million (USD),Public,3752,1001,5000,3000.0,26.0
+606,RoslinCT,na,senior,22,30,-1.0,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Public,5271,51,200,126.0,26.0
+607,Academics,na,na,22,30,3.3,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Venture,1611,51,200,126.0,26.0
+608,GW Pharmaceuticals,manager,senior,22,30,3.1,0,0,0,0,0,1,medical,24,$25 to $50 million (USD),Public,5522,51,200,126.0,26.0
+609,Colt Technology Services,na,na,22,30,4.6,0,0,0,0,0,0,telecommunication,29,Unknown / Non-Applicable,Private,3523,5001,10000,7500.0,26.0
+610,SOFTWARE DEVELOPMENT ENGINEER-INVENTORY,na,na,22,30,-1.0,0,0,0,0,0,1,public,-1,$2 to $5 billion (USD),Hospital,4398,1001,5000,3000.0,26.0
+611,Eigen Technologies,manager,senior,22,30,4.7,1,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3347,51,200,126.0,26.0
+612,huumun,na,na,22,30,3.0,0,0,0,0,0,1,telecommunication,18,Unknown / Non-Applicable,Private,2484,51,200,126.0,26.0
+613,Owlstone Medical,manager,na,22,30,3.9,0,0,0,0,0,0,medical,17,Unknown / Non-Applicable,Private,6506,51,200,126.0,26.0
+614,MediaCom,manager,na,22,30,3.5,0,0,0,0,0,1,telecommunication,-1,$10 to $25 million (USD),Private,3531,5001,10000,7500.0,26.0
+615,The Hut Group,na,senior,22,30,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3009,5001,10000,7500.0,26.0
+616,Adecco UK,na,na,22,30,3.4,1,1,0,0,1,1,public,25,$10+ billion (USD),Public,5045,10000,10000,10000.0,26.0
+617,IQVIA,director,na,22,30,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,3436,10000,10000,10000.0,26.0
+618,Thermo Fisher Scientific,na,na,22,30,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,4313,10000,10000,10000.0,26.0
+619,Thermo Fisher Scientific,na,na,22,30,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,3889,10000,10000,10000.0,26.0
+620,IBM,na,na,22,30,3.9,0,1,0,0,0,1,public,110,$10+ billion (USD),Public,4158,10000,10000,10000.0,26.0
+621,AstraZeneca,director,senior,22,30,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5403,10000,10000,10000.0,26.0
+622,Amazon EU SARL (UK Branch),manager,senior,22,30,3.9,0,0,0,0,0,0,telecommunication,27,$10+ billion (USD),Public,4616,10000,10000,10000.0,26.0
+623,Bicester Village,director,na,22,30,3.1,0,0,0,0,0,0,retail,28,$100 to $500 million (USD),Private,4298,1001,5000,3000.0,26.0
+624,myrecovery,na,na,22,30,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Public,5056,51,200,126.0,26.0
+625,Capgemini,na,na,22,30,4.3,0,0,0,0,0,1,inforamtion tech,54,$10+ billion (USD),Public,6095,10000,10000,10000.0,26.0
+626,Tangerine Holdings,na,na,22,30,2.5,0,0,0,0,0,1,medical,30,$25 to $50 million (USD),Private,3584,51,200,126.0,26.0
+627,AstraZeneca,manager,na,22,30,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4709,10000,10000,10000.0,26.0
+628,The Sixth Form College Farnborough,na,na,22,30,4.4,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4981,10000,10000,10000.0,26.0
+629,Pertemps Network Group,analyst,senior,22,30,3.7,1,1,0,0,0,1,public,60,$500 million to $1 billion (USD),Private,2265,1001,5000,3000.0,26.0
+630,AstraZeneca,director,na,22,30,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5562,10000,10000,10000.0,26.0
+631,British Trust for Ornithology,na,na,22,30,4.0,0,1,0,0,0,1,public,-1,Less than $1 million (USD),Organization,7976,51,200,126.0,26.0
+632,Thermo Fisher Scientific,na,na,22,30,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,3253,10000,10000,10000.0,26.0
+633,AF Selection,manager,na,22,30,-1.0,0,0,0,0,0,1,public,-1,$5 to $10 billion (USD),Public,3192,501,1000,750.0,26.0
+634,University of Nottingham,na,na,22,30,4.2,0,0,0,0,0,0,education,140,$500 million to $1 billion (USD),College / University,3500,5001,10000,7500.0,26.0
+635,Domino Printing Sciences,na,na,22,30,4.3,0,0,0,0,0,1,production,43,$100 to $500 million (USD),Public,3912,1001,5000,3000.0,26.0
+636,M-Tech 360,director,na,22,30,-1.0,0,0,0,0,0,0,public,-1,$2 to $5 billion (USD),Public,2245,1001,5000,3000.0,26.0
+637,MMS Holdings Inc.,manager,na,22,30,3.9,0,0,0,0,0,1,medical,15,Unknown / Non-Applicable,Private,7573,201,500,350.0,26.0
+638,Harnham,analyst,na,22,30,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2022,51,200,126.0,26.0
+639,IQVIA,na,na,22,30,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2722,10000,10000,10000.0,26.0
+640,Checkit,na,na,22,30,3.5,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4521,51,200,126.0,26.0
+641,MMR Research Worldwide LTD,director,na,22,30,3.4,0,0,0,0,0,1,telecommunication,32,Unknown / Non-Applicable,Private,3710,51,200,126.0,26.0
+642,"AMETEK, Inc.",director,na,22,30,4.1,0,0,0,0,0,1,production,91,$5 to $10 billion (USD),Public,3249,10000,10000,10000.0,26.0
+643,Bristol Myers Squibb,manager,na,22,30,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,6171,10000,10000,10000.0,26.0
+644,Ormiston Academies Trust,na,senior,22,30,4.1,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Organization,892,1001,5000,3000.0,26.0
+645,Amazon,na,na,35,47,3.9,1,1,0,1,1,0,telecommunication,27,$10+ billion (USD),Public,3335,10000,10000,10000.0,41.0
+646,Lloyds Banking Group,analyst,senior,35,47,3.9,1,1,0,0,0,1,finance,326,Unknown / Non-Applicable,Public,6828,10000,10000,10000.0,41.0
+647,Lloyds Banking Group,analyst,senior,35,47,3.9,1,1,0,0,0,1,finance,326,Unknown / Non-Applicable,Public,6828,10000,10000,10000.0,41.0
+648,HM Revenue and Customs,ai researcher,senior,35,47,3.7,0,0,0,0,0,1,public,16,$500 million to $1 billion (USD),Government,7588,10000,10000,10000.0,41.0
+649,Acacium Group,consultant,senior,35,47,-1.0,0,0,0,0,0,1,public,-1,$2 to $5 billion (USD),Government,3274,1,50,26.0,41.0
+650,Jaywing,na,na,35,47,3.2,0,0,0,0,0,1,telecommunication,-1,$1 to $5 million (USD),Private,5175,501,1000,750.0,41.0
+651,Jazz Pharmaceuticals,director,na,35,47,3.6,0,0,0,0,0,1,medical,18,$1 to $2 billion (USD),Public,7888,1001,5000,3000.0,41.0
+652,Acacium Group,na,na,35,47,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,3650,1001,5000,3000.0,41.0
+653,TDR Training Ltd.,na,na,35,47,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Public,3439,1,50,26.0,41.0
+654,The Hut Group,na,senior,35,47,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3009,5001,10000,7500.0,41.0
+655,RSC - London,na,na,35,47,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Venture,2576,10000,10000,10000.0,41.0
+656,GSK,director,senior,35,47,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,9511,10000,10000,10000.0,41.0
+657,GSK,director,senior,35,47,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,9979,10000,10000,10000.0,41.0
+658,IBM,na,na,35,47,3.9,0,1,0,0,0,1,public,110,$10+ billion (USD),Public,4158,10000,10000,10000.0,41.0
+659,Bicester Village,director,na,35,47,3.1,0,0,0,0,0,0,retail,28,$100 to $500 million (USD),Private,4298,1001,5000,3000.0,41.0
+660,myrecovery,na,na,35,47,-1.0,0,0,0,0,0,1,public,-1,$1 to $2 billion (USD),Government,5056,5001,10000,7500.0,41.0
+661,Pertemps Network Group,analyst,senior,35,47,3.7,1,1,0,0,0,1,public,60,$500 million to $1 billion (USD),Private,2265,1001,5000,3000.0,41.0
+662,Tangerine Holdings,na,na,35,47,2.5,0,0,0,0,0,1,medical,30,$25 to $50 million (USD),Private,3584,51,200,126.0,41.0
+663,British Trust for Ornithology,na,na,35,47,4.0,0,1,0,0,0,1,public,-1,Less than $1 million (USD),Organization,7976,51,200,126.0,41.0
+664,GSK,director,na,35,47,4.0,0,0,0,0,1,1,medical,191,$10+ billion (USD),Public,8082,10000,10000,10000.0,41.0
+665,M-Tech 360,director,na,35,47,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,2245,10000,10000,10000.0,41.0
+666,Harnham,analyst,na,35,47,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2022,51,200,126.0,41.0
+667,Checkit,na,na,35,47,3.5,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4521,51,200,126.0,41.0
+668,Bristol Myers Squibb,manager,na,35,47,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,6171,10000,10000,10000.0,41.0
+669,Gilead Sciences,director,senior,35,47,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,5170,10000,10000,10000.0,41.0
+670,IQVIA,na,na,45,55,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2722,10000,10000,10000.0,50.0
+671,Deloitte,consultant,senior,45,55,3.9,1,1,0,0,0,1,finance,171,$10+ billion (USD),Private,12000,10000,10000,10000.0,50.0
+672,Harnham,analyst,na,45,55,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2022,51,200,126.0,50.0
+673,MMR Research Worldwide LTD,director,na,45,55,3.4,0,0,0,0,0,1,telecommunication,32,Unknown / Non-Applicable,Private,3710,51,200,126.0,50.0
+674,Deloitte UK,consultant,senior,45,55,3.9,1,1,0,0,0,1,finance,171,$10+ billion (USD),Private,11309,10000,10000,10000.0,50.0
+675,Checkit,na,na,45,55,3.5,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4521,51,200,126.0,50.0
+676,Bristol Myers Squibb,manager,na,45,55,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,6171,10000,10000,10000.0,50.0
+677,Eurofins UK Food Testing,manager,na,45,55,-1.0,0,0,0,0,0,1,public,-1,$5 to $10 billion (USD),Private,6683,1001,5000,3000.0,50.0
+678,Ormiston Academies Trust,na,senior,45,55,4.1,0,0,0,0,0,0,public,-1,$100 to $500 million (USD),Organization,892,1001,5000,3000.0,50.0
+679,AstraZeneca,na,na,45,55,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,3829,10000,10000,10000.0,50.0
+680,Astellas,manager,senior,45,55,3.8,0,0,0,0,0,1,medical,16,$25 to $50 million (USD),Public,2451,1001,5000,3000.0,50.0
+681,Deloitte,na,senior,45,55,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,13643,10000,10000,10000.0,50.0
+682,Deloitte UK,na,senior,45,55,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,13071,10000,10000,10000.0,50.0
+683,Keoghs,na,na,45,55,3.4,0,0,0,0,0,1,public,53,$50 to $100 million (USD),Private,4438,1001,5000,3000.0,50.0
+684,Citi,na,na,45,55,3.9,1,1,0,0,0,1,finance,209,$10+ billion (USD),Public,4447,10000,10000,10000.0,50.0
+685,Syneos Health Clinical,director,na,45,55,3.5,0,0,0,0,0,1,medical,-1,Unknown / Non-Applicable,Public,6013,10000,10000,10000.0,50.0
+686,IQVIA,na,senior,45,55,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2859,10000,10000,10000.0,50.0
+687,RELX Group,director,na,45,55,3.8,0,1,0,0,0,1,inforamtion tech,141,$10+ billion (USD),Public,5408,10000,10000,10000.0,50.0
+688,Car Finance Giant,na,na,45,55,2.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,1949,51,200,126.0,50.0
+689,Sainsburys,analyst,na,45,55,3.6,1,1,0,0,0,1,retail,152,$10+ billion (USD),Public,5145,10000,10000,10000.0,50.0
+690,Deloitte UK,data engineer,senior,45,55,3.9,1,1,0,0,1,1,finance,171,$10+ billion (USD),Private,8488,10000,10000,10000.0,50.0
+691,Gilead Sciences,director,na,45,55,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,7705,10000,10000,10000.0,50.0
+692,Balfour Beatty,na,na,45,55,3.6,0,0,0,0,0,0,public,112,$500 million to $1 billion (USD),Public,3751,10000,10000,10000.0,50.0
+693,Tribal Worldwide,na,na,45,55,2.9,0,0,0,0,0,1,telecommunication,21,$10 to $25 million (USD),Venture,5604,51,200,126.0,50.0
+694,Privitar,manager,senior,45,55,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3612,51,200,126.0,50.0
+695,Deloitte UK,manager,senior,45,55,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,11429,10000,10000,10000.0,50.0
+696,Deloitte,manager,senior,45,55,3.9,0,0,0,0,0,1,finance,171,$10+ billion (USD),Private,12034,10000,10000,10000.0,50.0
+697,Triumph Consultants Ltd,na,na,45,55,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,5993,10000,10000,10000.0,50.0
+698,AstraZeneca,director,na,45,55,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,5518,10000,10000,10000.0,50.0
+699,NELFT NHS Foundation Trust,na,na,45,55,3.4,0,0,0,0,0,0,medical,-1,$100 to $500 million (USD),Hospital,3580,5001,10000,7500.0,50.0
+700,Domestic & General,analyst,senior,38,45,3.4,0,1,0,0,0,1,finance,109,Unknown / Non-Applicable,Private,4809,1001,5000,3000.0,41.5
+701,Kleboe Jardine,na,na,38,45,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,College / University,2689,501,1000,750.0,41.5
+702,Cromsource GmbH,na,na,38,45,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Public,6198,1001,5000,3000.0,41.5
+703,Gilead Sciences,director,na,38,45,3.7,0,0,0,0,1,1,medical,34,$10+ billion (USD),Public,5830,10000,10000,10000.0,41.5
+704,Raconteur,na,senior,38,45,4.4,0,0,0,0,0,0,public,13,Less than $1 million (USD),Private,2271,1,50,26.0,41.5
+705,Threads Styling Ltd.,analyst,senior,38,45,2.7,0,1,0,0,0,1,telecommunication,12,Unknown / Non-Applicable,Private,3256,51,200,126.0,41.5
+706,ZS Associates,manager,na,38,45,3.9,0,0,0,0,0,0,public,38,Unknown / Non-Applicable,Private,3087,5001,10000,7500.0,41.5
+707,LGC Limited,na,na,38,45,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Public,5868,5001,10000,7500.0,41.5
+708,Riskonnect,na,na,38,45,3.7,0,0,0,0,0,1,inforamtion tech,14,$100 to $500 million (USD),Private,3112,201,500,350.0,41.5
+709,Corin,na,senior,38,45,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,4026,10000,10000,10000.0,41.5
+710,Infosys Limited,na,na,38,45,3.8,0,0,0,0,0,1,public,40,$10+ billion (USD),Public,2865,10000,10000,10000.0,41.5
+711,Citibank,na,na,38,45,4.0,1,1,0,0,0,0,finance,-1,Less than $1 million (USD),Private,8383,1001,5000,3000.0,41.5
+712,Thermo Fisher Scientific,manager,senior,38,45,3.6,0,0,0,0,0,1,medical,119,$10+ billion (USD),Public,4417,10000,10000,10000.0,41.5
+713,MediaCom,manager,na,38,45,3.3,0,0,0,0,0,1,telecommunication,26,$1 to $2 billion (USD),Private,3531,1001,5000,3000.0,41.5
+714,BR Recruitment,manager,na,38,45,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,5672,1001,5000,3000.0,41.5
+715,Citibank,analyst,na,38,45,4.0,0,0,0,0,1,1,finance,-1,Less than $1 million (USD),Private,7894,1001,5000,3000.0,41.5
+716,AstraZeneca,director,na,38,45,4.2,0,0,0,0,0,1,medical,108,$10+ billion (USD),Public,4400,10000,10000,10000.0,41.5
+717,Veeva Systems,director,na,38,45,3.8,0,0,0,0,0,1,inforamtion tech,14,$500 million to $1 billion (USD),Public,3597,1001,5000,3000.0,41.5
+718,Fresenius Kabi Limited,na,na,38,45,3.5,0,0,0,0,0,1,medical,-1,$5 to $10 billion (USD),Venture,2355,10000,10000,10000.0,41.5
+719,Brandwatch,ai researcher,senior,38,45,4.1,0,0,0,0,0,0,inforamtion tech,14,Unknown / Non-Applicable,Private,3648,501,1000,750.0,41.5
+720,Congenica,na,na,38,45,3.3,1,1,0,0,0,1,public,-1,Less than $1 million (USD),Private,4938,51,200,126.0,41.5
+721,Capgemini Invent,director,na,38,45,4.0,0,0,0,0,0,1,public,54,$500 million to $1 billion (USD),Public,7137,5001,10000,7500.0,41.5
+722,Rise Technical Recruitment Limited,na,na,38,45,4.6,0,0,0,0,0,0,public,16,Unknown / Non-Applicable,Private,2031,51,200,126.0,41.5
+723,dunnhumby,na,senior,38,45,4.2,0,0,0,0,0,0,public,32,$500 million to $1 billion (USD),Private,3719,1001,5000,3000.0,41.5
+724,Oracle,na,senior,38,45,3.6,1,1,0,0,0,1,inforamtion tech,44,$10+ billion (USD),Public,8754,10000,10000,10000.0,41.5
+725,LGC Limited,na,na,38,45,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Public,7214,51,200,126.0,41.5
+726,GCS Recruitment Specialists Ltd,ai researcher,senior,38,45,4.2,0,0,0,0,0,0,public,30,Unknown / Non-Applicable,Private,2103,51,200,126.0,41.5
+727,GlaxoSmithKline,na,senior,38,45,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,7230,10000,10000,10000.0,41.5
+728,IQVIA,na,na,38,45,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,8268,10000,10000,10000.0,41.5
+729,British Trust for Ornithology (BTO),na,na,38,45,-1.0,0,0,0,0,0,0,public,-1,$500 million to $1 billion (USD),Public,1774,51,200,126.0,41.5
+730,RHACC,na,na,32,49,-1.0,1,1,0,0,0,1,public,-1,$100 to $500 million (USD),Venture,2798,201,500,350.0,40.5
+731,Avanade,na,na,32,49,4.0,0,0,0,0,0,1,public,21,$2 to $5 billion (USD),Private,5385,10000,10000,10000.0,40.5
+732,British Trust for Ornithology (BTO),na,na,32,49,-1.0,0,0,0,0,0,0,public,-1,$10+ billion (USD),Public,1774,1001,5000,3000.0,40.5
+733,Bangura Solutions,ai researcher,senior,32,49,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,4285,1001,5000,3000.0,40.5
+734,AstraZeneca,director,na,32,49,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4647,10000,10000,10000.0,40.5
+735,Q2 Solutions,manager,na,32,49,3.2,0,0,0,0,0,1,medical,6,Unknown / Non-Applicable,Private,8589,1001,5000,3000.0,40.5
+736,Digital Futures Careers,na,na,32,49,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Public,2951,201,500,350.0,40.5
+737,Bio Pharma Resourcing,director,na,32,49,-1.0,0,0,0,0,0,0,public,-1,$10+ billion (USD),Private,3394,5001,10000,7500.0,40.5
+738,Charles River Laboratories,director,na,32,49,3.3,0,0,0,0,0,0,medical,74,$2 to $5 billion (USD),Public,2951,10000,10000,10000.0,40.5
+739,Sia Partners,manager,na,32,49,4.0,0,0,0,0,0,1,public,22,$100 to $500 million (USD),Private,5166,1001,5000,3000.0,40.5
+740,Royal Free NHS,na,na,32,49,3.7,0,0,0,0,0,0,medical,-1,Less than $1 million (USD),Hospital,4560,10000,10000,10000.0,40.5
+741,Harnham,analyst,senior,32,49,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,1787,51,200,126.0,40.5
+742,The Rosalind Franklin Institute,na,na,32,49,-1.0,0,0,0,0,0,1,public,-1,$1 to $5 million (USD),Public,6632,1,50,26.0,40.5
+743,AstraZeneca,na,senior,32,49,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4745,10000,10000,10000.0,40.5
+744,The Rosalind Franklin Institute,na,na,32,49,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Private,7024,10000,10000,10000.0,40.5
+745,SAP,na,senior,32,49,4.6,0,0,0,0,0,1,inforamtion tech,49,$10+ billion (USD),Public,8292,10000,10000,10000.0,40.5
+746,IPSEN,na,senior,32,49,3.7,0,0,0,0,0,1,medical,92,$2 to $5 billion (USD),Private,3696,5001,10000,7500.0,40.5
+747,Cardiff Blues,na,na,32,49,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Public,2988,51,200,126.0,40.5
+748,Gloucestershire Hospitals NHS Foundation Trust,na,senior,32,49,3.9,0,0,0,0,0,0,medical,19,Unknown / Non-Applicable,Hospital,2491,5001,10000,7500.0,40.5
+749,Laing O'Rourke,na,na,32,49,4.1,0,0,0,0,0,0,public,173,$1 to $2 billion (USD),Private,5252,5001,10000,7500.0,40.5
+750,Harnham,analyst,senior,32,49,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2248,51,200,126.0,40.5
+751,Newton Colmore Consulting Ltd,manager,na,32,49,-1.0,0,0,0,0,0,1,public,-1,$2 to $5 billion (USD),Public,1951,10000,10000,10000.0,40.5
+752,IQVIA,na,na,32,49,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,2992,10000,10000,10000.0,40.5
+753,AstraZeneca,na,senior,32,49,4.2,0,0,0,0,0,0,medical,108,$10+ billion (USD),Public,4743,10000,10000,10000.0,40.5
+754,The Education Specialist,na,na,32,49,-1.0,0,0,0,0,0,1,public,-1,$5 to $10 billion (USD),Public,3635,1,50,26.0,40.5
+755,Deep Science Ventures,director,na,32,49,4.8,0,1,0,1,0,0,public,-1,Less than $1 million (USD),Private,4548,1,50,26.0,40.5
+756,Data Science Talent Ltd,na,na,32,49,-1.0,0,0,0,0,0,0,public,-1,$10+ billion (USD),Public,2950,501,1000,750.0,40.5
+757,Eurofins Central Laboratory,na,senior,32,49,3.4,0,0,0,0,0,1,medical,34,$2 to $5 billion (USD),Private,5655,10000,10000,10000.0,40.5
+758,BeiGene,director,na,32,49,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,7000,1001,5000,3000.0,40.5
+759,Emitwise,analyst,na,28,46,5.0,1,0,0,0,0,1,inforamtion tech,2,Unknown / Non-Applicable,Private,4524,1,50,26.0,37.0
+760,Jaguar Land Rover,na,na,28,46,3.7,0,0,0,0,0,1,production,13,$10+ billion (USD),Private,9203,10000,10000,10000.0,37.0
+761,Toolstation,manager,na,28,46,3.5,0,0,0,0,0,0,retail,18,$100 to $500 million (USD),Private,4708,5001,10000,7500.0,37.0
+762,Bud,na,na,28,46,3.7,0,0,0,0,0,0,inforamtion tech,6,Unknown / Non-Applicable,Private,6907,51,200,126.0,37.0
+763,Thornbury Community Services,na,na,28,46,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,3665,1,50,26.0,37.0
+764,AI-Adam,na,na,28,46,4.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Organization,1097,1,50,26.0,37.0
+765,Cranfield University,na,na,28,46,4.0,0,0,0,0,0,1,education,75,$100 to $500 million (USD),College / University,3983,1001,5000,3000.0,37.0
+766,INSIGNIA RECRUIT LTD.,na,na,28,46,-1.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2246,1,50,26.0,37.0
+767,PA Consulting Group,consultant,na,28,46,3.4,0,0,0,0,1,0,public,78,$100 to $500 million (USD),Private,4708,1001,5000,3000.0,37.0
+768,Henry Nicholas Associates,director,na,28,46,5.0,0,0,0,0,0,0,public,12,Less than $1 million (USD),Private,2886,1,50,26.0,37.0
+769,Thornshaw Scientific Recruitment,na,na,28,46,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,2326,1,50,26.0,37.0
+770,Citi,director,na,28,46,3.9,1,0,0,0,0,1,finance,209,$10+ billion (USD),Public,5680,10000,10000,10000.0,37.0
+771,The Candidate,analyst,senior,28,46,5.0,0,1,0,0,0,0,public,-1,Less than $1 million (USD),Private,2142,1,50,26.0,37.0
+772,DRG,manager,na,28,46,-1.0,0,0,0,0,0,1,public,-1,$10 to $25 million (USD),Public,4804,1,50,26.0,37.0
+773,Malvern Panalytical,manager,na,28,46,3.2,0,0,0,0,0,1,medical,-1,Less than $1 million (USD),Public,7764,1001,5000,3000.0,37.0
+774,Harnham,analyst,senior,28,46,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,3634,51,200,126.0,37.0
+775,Marsh and McLennan,na,na,28,46,3.7,0,0,0,0,0,1,finance,150,$10+ billion (USD),Public,5646,10000,10000,10000.0,37.0
+776,Pfizer,director,na,28,46,4.2,0,0,0,0,0,1,medical,172,$10+ billion (USD),Public,6984,10000,10000,10000.0,37.0
+777,Jacobs,na,na,28,46,3.8,0,0,0,0,0,1,public,74,$10+ billion (USD),Public,10791,10000,10000,10000.0,37.0
+778,Edinburgh Napier University,na,na,28,46,4.2,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,3186,1001,5000,3000.0,37.0
+779,Waters Corporation,na,na,28,46,3.8,0,0,0,0,0,1,medical,63,$2 to $5 billion (USD),Public,3822,5001,10000,7500.0,37.0
+780,UK Research and Innovation (UKRI),na,senior,28,46,4.2,1,0,0,1,0,1,public,-1,Unknown / Non-Applicable,Government,12882,1001,5000,3000.0,37.0
+781,Couchbase,na,na,28,46,4.7,0,1,0,0,0,1,inforamtion tech,10,Unknown / Non-Applicable,Private,5227,501,1000,750.0,37.0
+782,Niantic,manager,na,28,46,4.0,0,0,0,1,0,0,inforamtion tech,10,Unknown / Non-Applicable,Private,4513,501,1000,750.0,37.0
+783,"Ministry of Housing, Communities & Local Government",na,senior,28,46,4.2,0,0,0,0,0,0,public,15,Unknown / Non-Applicable,Government,12664,1001,5000,3000.0,37.0
+784,Citi,na,na,28,46,3.9,1,0,0,0,0,1,finance,209,$10+ billion (USD),Public,5646,10000,10000,10000.0,37.0
+785,Citi,na,na,28,46,3.9,1,0,0,0,0,1,finance,209,$10+ billion (USD),Public,5699,10000,10000,10000.0,37.0
+786,Guided Solutions,manager,na,28,46,1.0,0,0,0,0,0,0,public,21,Less than $1 million (USD),Private,1292,1,50,26.0,37.0
+787,EF English Live,analyst,senior,28,46,3.6,0,1,0,0,1,0,education,25,Unknown / Non-Applicable,Private,3307,501,1000,750.0,37.0
+788,City Wharf Financial Recruitment Ltd,na,senior,28,46,-1.0,1,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,1573,1,50,26.0,37.0
+789,Niantic,manager,na,50,86,4.0,0,0,0,1,0,0,inforamtion tech,10,Unknown / Non-Applicable,Private,4513,501,1000,750.0,68.0
+790,EF English Live,analyst,senior,50,86,3.6,0,1,0,0,1,0,education,25,Unknown / Non-Applicable,Private,3307,501,1000,750.0,68.0
+791,Informatica,na,na,50,86,4.2,0,0,0,0,0,1,inforamtion tech,28,$1 to $2 billion (USD),Private,1938,1001,5000,3000.0,68.0
+792,Informatica,na,na,50,86,4.2,0,0,0,0,0,1,public,-1,$25 to $50 million (USD),Private,1938,10000,10000,10000.0,68.0
+793,City Wharf Financial Recruitment Ltd,na,senior,50,86,-1.0,1,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,1573,1,50,26.0,68.0
+794,Platinum Informatics,manager,na,50,86,-1.0,0,0,0,0,0,0,public,-1,$25 to $50 million (USD),Organization,3618,10000,10000,10000.0,68.0
+795,Bristol-Myers Squibb,director,na,50,86,4.0,0,0,0,0,0,1,medical,163,$10+ billion (USD),Public,7268,10000,10000,10000.0,68.0
+796,SITA,na,na,50,86,3.8,1,0,0,0,0,1,public,72,$1 to $2 billion (USD),Private,3982,1001,5000,3000.0,68.0
+797,BeiGene,director,na,50,86,3.3,0,0,0,0,0,1,medical,11,$10 to $25 million (USD),Public,7980,1001,5000,3000.0,68.0
+798,Sumo Digital Ltd,analyst,na,50,86,3.8,1,1,1,0,0,1,inforamtion tech,18,$25 to $50 million (USD),Public,4853,501,1000,750.0,68.0
+799,Vertex Pharmaceuticals,director,na,50,86,3.4,0,0,0,0,0,1,medical,32,$5 to $10 billion (USD),Public,3559,1001,5000,3000.0,68.0
+800,Northumbria Pharma,na,na,50,86,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,3176,1,50,26.0,68.0
+801,Touch Surgery,na,senior,50,86,3.6,1,1,0,1,1,1,inforamtion tech,8,Unknown / Non-Applicable,Private,6379,51,200,126.0,68.0
+802,Teletrac Navman,manager,na,50,86,2.5,0,0,0,0,0,0,production,-1,$100 to $500 million (USD),Venture,7145,201,500,350.0,68.0
+803,Oxford Immunotec,director,na,50,86,3.2,0,0,0,0,0,1,medical,19,$25 to $50 million (USD),Public,6393,201,500,350.0,68.0
+804,Nomad Foods,manager,na,50,86,3.5,0,0,0,0,0,1,production,6,$2 to $5 billion (USD),Public,4886,1001,5000,3000.0,68.0
+805,BAE Systems Applied Intelligence,consultant,na,50,86,3.4,1,1,0,1,0,1,inforamtion tech,50,$500 million to $1 billion (USD),Venture,4137,1001,5000,3000.0,68.0
+806,Allvue Systems,na,na,50,86,3.4,1,1,0,0,1,0,inforamtion tech,2,Unknown / Non-Applicable,Private,5178,501,1000,750.0,68.0
+807,GSK,director,senior,50,86,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,9796,10000,10000,10000.0,68.0
+808,Ocado Retail,na,na,50,86,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Private,6632,10000,10000,10000.0,68.0
+809,Harnham,analyst,na,50,86,4.0,0,0,0,0,0,1,public,15,$25 to $50 million (USD),Private,1525,51,200,126.0,68.0
+810,Verkada,na,na,50,86,4.0,1,0,0,0,1,0,inforamtion tech,5,Unknown / Non-Applicable,Private,4603,201,500,350.0,68.0
+811,Ministry of Defence,na,na,50,86,4.2,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Government,9662,201,500,350.0,68.0
+812,IPSEN,director,na,50,86,3.7,0,0,0,0,0,1,medical,92,$2 to $5 billion (USD),Private,6453,5001,10000,7500.0,68.0
+813,IPSEN,director,na,50,86,3.7,0,0,0,0,0,1,medical,92,$2 to $5 billion (USD),Private,6453,5001,10000,7500.0,68.0
+814,Climate Bonds Initiative,na,na,50,86,4.7,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Organization,4648,1,50,26.0,68.0
+815,Fluidigm,manager,na,50,86,3.5,0,0,0,0,0,1,medical,22,$100 to $500 million (USD),Public,3519,501,1000,750.0,68.0
+816,Zulu Forest Sciences,director,na,50,86,-1.0,0,0,0,0,0,1,public,-1,$1 to $2 billion (USD),Public,4064,10000,10000,10000.0,68.0
+817,Pfizer,manager,senior,50,86,4.2,0,0,0,0,0,1,medical,172,$10+ billion (USD),Public,6411,10000,10000,10000.0,68.0
+818,AVEVA,consultant,na,50,86,3.9,0,0,0,0,0,1,inforamtion tech,54,$100 to $500 million (USD),Private,4761,1001,5000,3000.0,68.0
+819,WorldRemit,analyst,senior,26,65,2.7,1,1,0,0,0,1,finance,11,Unknown / Non-Applicable,Private,3161,1001,5000,3000.0,45.5
+820,Richmond and Hillcroft Adult and Community College,na,na,26,65,5.0,1,1,0,0,0,1,education,-1,Unknown / Non-Applicable,College / University,2766,201,500,350.0,45.5
+821,National Research Group,analyst,senior,26,65,3.5,0,0,0,0,0,1,telecommunication,43,Unknown / Non-Applicable,Private,4209,51,200,126.0,45.5
+822,Amazon,na,na,26,65,3.9,1,1,0,1,1,0,telecommunication,27,$10+ billion (USD),Public,3335,10000,10000,10000.0,45.5
+823,Sky,na,senior,26,65,3.9,0,1,0,0,0,0,telecommunication,32,$5 to $10 billion (USD),Public,5112,10000,10000,10000.0,45.5
+824,Lloyds Banking Group,analyst,senior,26,65,3.9,1,1,0,0,0,1,finance,326,Unknown / Non-Applicable,Public,6828,10000,10000,10000.0,45.5
+825,Quanta,na,na,26,65,4.4,0,0,0,0,0,1,public,29,$50 to $100 million (USD),Private,2324,51,200,126.0,45.5
+826,AstraZeneca UK,na,na,26,65,4.2,0,1,0,0,0,1,medical,108,$10+ billion (USD),Public,3805,10000,10000,10000.0,45.5
+827,Lloyds Banking Group,analyst,senior,26,65,3.9,1,1,0,0,0,1,finance,326,Unknown / Non-Applicable,Public,6828,10000,10000,10000.0,45.5
+828,Sanofi,na,senior,26,65,3.9,0,0,0,0,0,1,medical,48,$10+ billion (USD),Public,3124,10000,10000,10000.0,45.5
+829,HM Revenue and Customs,ai researcher,senior,26,65,3.7,0,0,0,0,0,1,public,16,$500 million to $1 billion (USD),Government,7588,10000,10000,10000.0,45.5
+830,HM Revenue and Customs,ai researcher,senior,26,65,3.7,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Government,7588,51,200,126.0,45.5
+831,Acacium Group,consultant,senior,26,65,-1.0,0,0,0,0,0,1,public,-1,$2 to $5 billion (USD),Private,3438,51,200,126.0,45.5
+832,Digital Experts Personnel,analyst,na,26,65,-1.0,0,1,0,0,0,1,public,-1,Less than $1 million (USD),Private,4531,10000,10000,10000.0,45.5
+833,Jaywing,na,na,26,65,3.2,0,0,0,0,0,1,telecommunication,-1,$1 to $5 million (USD),Private,5175,501,1000,750.0,45.5
+834,Amazon,manager,senior,26,65,3.9,1,1,0,0,0,0,telecommunication,27,$10+ billion (USD),Public,2639,10000,10000,10000.0,45.5
+835,Jazz Pharmaceuticals,director,na,26,65,3.6,0,0,0,0,0,1,medical,18,$1 to $2 billion (USD),Public,7888,1001,5000,3000.0,45.5
+836,Amazon,manager,senior,26,65,3.9,0,1,0,0,0,1,telecommunication,27,$10+ billion (USD),Public,2307,10000,10000,10000.0,45.5
+837,Amazon,manager,senior,26,65,3.9,0,0,0,0,0,0,telecommunication,27,$10+ billion (USD),Public,4714,10000,10000,10000.0,45.5
+838,Acacium Group,na,na,26,65,-1.0,0,0,0,0,0,1,public,-1,$10+ billion (USD),Public,3650,51,200,126.0,45.5
+839,TDR Training Ltd.,na,na,26,65,-1.0,0,0,0,0,0,0,public,-1,$500 million to $1 billion (USD),Private,3439,1001,5000,3000.0,45.5
+840,RSC - London,na,na,26,65,-1.0,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Venture,2576,10000,10000,10000.0,45.5
+841,Satoshi Gaming Group,manager,na,26,65,-1.0,0,0,0,0,0,0,public,-1,Unknown / Non-Applicable,Government,3180,10000,10000,10000.0,45.5
+842,The Hut Group,na,senior,26,65,3.3,0,0,0,0,0,1,retail,17,$500 million to $1 billion (USD),Private,3009,5001,10000,7500.0,45.5
+843,Domino Printing,na,na,26,65,4.3,0,0,0,0,0,1,production,43,$100 to $500 million (USD),Public,4111,1001,5000,3000.0,45.5
+844,IQVIA,director,na,26,65,3.8,0,0,0,0,0,0,medical,4,$2 to $5 billion (USD),Public,3436,10000,10000,10000.0,45.5
+845,GSK,director,senior,26,65,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,9511,10000,10000,10000.0,45.5
+846,GlaxoSmithKline,director,senior,26,65,4.0,0,0,0,0,1,0,medical,191,$10+ billion (USD),Public,9984,10000,10000,10000.0,45.5
+847,Citibank,na,na,26,65,4.0,1,0,0,0,0,0,finance,-1,Less than $1 million (USD),Private,7636,1001,5000,3000.0,45.5
+848,Adecco UK,na,na,26,65,3.4,1,1,0,0,1,1,public,25,$10+ billion (USD),Public,5045,10000,10000,10000.0,45.5
+849,Study Group,na,na,25,28,3.1,0,0,0,0,0,0,education,27,$100 to $500 million (USD),Private,3189,1001,5000,3000.0,26.5
+850,Privitar,manager,na,25,28,4.8,0,0,0,0,0,0,inforamtion tech,7,Unknown / Non-Applicable,Private,3479,51,200,126.0,26.5
+851,Ecole Jeannine Manuel - UK,na,na,25,28,2.4,0,0,0,0,0,0,education,6,Unknown / Non-Applicable,Private,2072,51,200,126.0,26.5
+852,Bangor University,na,na,25,28,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,11801,1001,5000,3000.0,26.5
+853,Bangor University,na,na,25,28,3.7,1,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,11968,1001,5000,3000.0,26.5
+854,PHASTAR,manager,na,25,28,3.9,0,0,0,0,0,1,medical,14,Unknown / Non-Applicable,Private,4837,51,200,126.0,26.5
+855,Mylan Inc.,na,senior,25,28,3.6,0,0,0,0,0,1,medical,60,$5 to $10 billion (USD),Public,3530,10000,10000,10000.0,26.5
+856,1st Choice Recruitment,na,na,25,28,1.8,0,0,0,0,0,0,public,27,$10 to $25 million (USD),Private,1549,501,1000,750.0,26.5
+857,Hastings Direct,na,na,25,28,3.6,0,1,0,0,0,0,finance,25,$50 to $100 million (USD),Private,2696,1001,5000,3000.0,26.5
+858,IDBS,na,senior,25,28,4.3,0,0,0,0,0,0,medical,36,$10+ billion (USD),Public,4069,1001,5000,3000.0,26.5
+859,Couchbase,na,na,25,28,4.7,1,1,0,0,1,0,inforamtion tech,10,Unknown / Non-Applicable,Private,6211,501,1000,750.0,26.5
+860,IQVIA,na,senior,25,28,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,3846,10000,10000,10000.0,26.5
+861,IQVIA,director,senior,25,28,3.8,0,0,0,0,0,1,medical,4,$2 to $5 billion (USD),Public,4828,10000,10000,10000.0,26.5
+862,Sky,na,na,25,28,3.9,1,1,0,0,0,1,telecommunication,32,$5 to $10 billion (USD),Public,5501,10000,10000,10000.0,26.5
+863,King.com,manager,senior,25,28,3.2,0,0,0,0,0,1,inforamtion tech,18,Unknown / Non-Applicable,Public,4709,1001,5000,3000.0,26.5
+864,Pall,manager,na,25,28,3.6,0,0,0,0,0,1,medical,75,$2 to $5 billion (USD),Venture,3391,10000,10000,10000.0,26.5
+865,RSC - London,na,na,25,28,-1.0,0,0,0,0,0,1,public,-1,$100 to $500 million (USD),Private,2932,10000,10000,10000.0,26.5
+866,Cloudflare,na,na,25,28,3.8,0,0,0,0,1,0,telecommunication,11,Unknown / Non-Applicable,Public,7256,1001,5000,3000.0,26.5
+867,Northumbria Pharma,na,senior,25,28,4.0,0,0,0,0,0,1,public,-1,Less than $1 million (USD),Private,2667,1,50,26.0,26.5
+868,Appirio,na,senior,25,28,2.5,0,0,0,0,0,1,public,15,$100 to $500 million (USD),Private,6235,1001,5000,3000.0,26.5
+869,AllSaints,analyst,senior,25,28,3.5,0,1,0,0,0,0,retail,27,$100 to $500 million (USD),Private,3188,1001,5000,3000.0,26.5
+870,Summit Oxford,na,na,25,28,3.6,0,0,0,0,0,1,medical,-1,$1 to $5 million (USD),Public,6895,1,50,26.0,26.5
+871,Featurespace,na,na,25,28,4.6,0,0,0,0,0,0,public,16,$10 to $25 million (USD),Private,7906,201,500,350.0,26.5
+872,Academics,na,na,25,28,3.3,0,0,0,0,0,1,public,-1,Unknown / Non-Applicable,Venture,1611,51,200,126.0,26.5
+873,Harnham,analyst,na,25,28,4.0,1,1,0,0,0,0,public,15,$25 to $50 million (USD),Private,2181,51,200,126.0,26.5
+874,1st Choice Staff Recruitment Ltd,na,na,25,28,-1.0,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,1139,1,50,26.0,26.5
+875,GW Pharmaceuticals,manager,senior,25,28,3.4,0,0,0,0,0,1,medical,24,$25 to $50 million (USD),Public,5522,51,200,126.0,26.5
+876,MediaCom,manager,na,25,28,3.5,0,0,0,0,0,1,telecommunication,-1,$10 to $25 million (USD),Private,3531,5001,10000,7500.0,26.5
+877,huumun,na,na,25,28,3.0,0,0,0,0,0,1,telecommunication,18,Unknown / Non-Applicable,Private,2484,51,200,126.0,26.5
+878,Bangor University,manager,na,25,28,3.7,0,0,0,0,0,1,education,-1,$100 to $500 million (USD),College / University,18410,1001,5000,3000.0,26.5
+879,Study Group,na,na,25,28,3.1,0,0,0,0,0,0,public,-1,Less than $1 million (USD),Private,3189,1001,5000,3000.0,26.5
