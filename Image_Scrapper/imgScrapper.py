@@ -4,7 +4,7 @@ import requests
 from selenium import webdriver
 
 
-def fetch_image_urls(name:str, max_links_to_fetch:int, wd:webdriver, sleep_bt_interactions:int = 1):
+def fetch_image_urls(name:str, max_links_to_fetch:int, wd:webdriver, sleep_bt_interactions:int = 2):
     def scroll_to_end(wd):
         wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(sleep_bt_interactions)
@@ -75,7 +75,7 @@ def search_and_download(search_term: str, driver_path: str, num_of_images=10, ta
         os.makedirs(target_folder)
 
     with webdriver.Chrome(executable_path=driver_path) as wd: # opens just chrome browser with blank page
-        output = fetch_image_urls(search_term, num_of_images, wd=wd, sleep_bt_interactions=0.5) #time interval 0.5miliseconds wait between each images
+        output = fetch_image_urls(search_term, num_of_images, wd=wd, sleep_bt_interactions=2) #time interval 0.5miliseconds wait between each images
 
     counter=0
     for elem in output:
@@ -84,7 +84,7 @@ def search_and_download(search_term: str, driver_path: str, num_of_images=10, ta
 
 
 DRIVER_PATH = './chromedriver'
-search_term = 'dog'
+search_term = 'grapes'
 # num of images you can pass it from here  by default it's 10 if you are not passing
-number_images = 40
+number_images = 30
 search_and_download(search_term=search_term, driver_path=DRIVER_PATH, num_of_images=number_images)

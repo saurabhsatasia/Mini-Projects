@@ -19,7 +19,7 @@ class Scrapper:
         self.browser = Chrome(executable_path=path, options=self.driver)
         return self.browser
 
-    def fetch_image_urls(self, query:str, max_links_to_fetch:int, wd, sleep_between_interactions:int = 1):
+    def fetch_image_urls(self, query:str, max_links_to_fetch:int, wd, sleep_between_interactions:int = 5):
         self.max_links_to_fetch = max_links_to_fetch
         self.query = query
         def scroll_to_end(wd):
