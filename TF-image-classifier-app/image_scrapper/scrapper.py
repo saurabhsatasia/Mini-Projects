@@ -5,7 +5,7 @@ from selenium.webdriver import ChromeOptions, Chrome
 
 class Scrapper:
     def __init__(self):
-        self.driver_path = '/chromedriver.exe'
+        self.driver_path = 'D:\Strive\Mini-Projects\TF-image-classifier-app\image_scrapper\chromedriver.exe'
         self.driver = ChromeOptions()
         # self.browser = Chrome()
 
