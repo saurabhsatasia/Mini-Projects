@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-from ai_utils.utils import decodeImage
 from CNN.predict import Predict
 
 
@@ -22,7 +21,7 @@ def main():
         if pred:
             pred = Predict(filename=img_file)
             result = pred.prediction()
-            st.success(result)
+            st.header(result)
 
 
 
