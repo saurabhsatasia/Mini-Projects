@@ -18,8 +18,8 @@ def generate_list(listname):
         return fruit_list
 
 
-for item in generate_list('harry_potter'):
-    scrape.search_and_download(search_term=item, target_path='D:/Strive/Mini-Projects/TF-image-classifier-app/images', number_images=30 )
+# for item in generate_list('harry_potter'):
+#     scrape.search_and_download(search_term=item, target_path='D:/Strive/Mini-Projects/TF-image-classifier-app/images', number_images=30 )
 
 # Data Generator
 calls = Call_back()

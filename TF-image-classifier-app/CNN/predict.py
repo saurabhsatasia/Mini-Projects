@@ -40,6 +40,6 @@ class Predict:
         elif predictions[0][4] == 1:
             prediction = 'ron_wesley'
 
-        # print("This image most likely belongs {} with a {:.2f} percent confidence".format(class_indices[np.argmax(score)], 100*np.max(score)))
+        st.header(f"This image most likely belongs **{prediction}** with a {round(100*np.max(score),2)} percent confidence")
         return [{"image": prediction}] # , "score": score
 

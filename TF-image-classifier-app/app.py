@@ -21,7 +21,7 @@ def main():
         if pred:
             pred = Predict(filename=img_file)
             result = pred.prediction()
-            st.header(result)
+            st.subheader(result)
 
 
 
