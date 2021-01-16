@@ -23,12 +23,12 @@ def model_training(training_set, testing_set,calls):
     # #Step 4- Full connection
     classifier.add(Dense(units=128, activation='relu'))
     # #For the output step
-    classifier.add(Dense(units=4, activation='softmax'))
+    classifier.add(Dense(units=5, activation='softmax'))
     classifier.add(Dropout(0.01))
     classifier.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
     classifier.fit(training_set, epochs=15,
                    validation_data=testing_set,
-                   validation_steps=120 / 32, callbacks=[calls])
+                   validation_steps=150/30, callbacks=[calls])
     classifier.save("model.h5")
     print("Saved model to disk")
 
